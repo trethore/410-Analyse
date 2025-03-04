@@ -9,6 +9,7 @@ services:
       - "5433:5433"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./app/bdd/db.sql:/docker-entrypoint-initdb.d/db.sql  # Ensure SQL file is loaded
     networks:
       - app-network
     command: ["postgres", "-p", "5433"]
@@ -17,6 +18,7 @@ services:
       interval: 5s
       retries: 5
       timeout: 3s
+
 
   web:
     build: .
