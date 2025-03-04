@@ -1,4 +1,0 @@
-Leaflet : https://leafletjs.com/reference.html
-Bootstrap : https://getbootstrap.com/docs/5.3/getting-started/introduction/
-MongoDB : https://www.mongodb.com/docs/
-

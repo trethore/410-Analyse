@@ -1,0 +1,39 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: toto
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: testdb
+    ports:
+      - "5433:5433"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app-network
+    command: ["postgres", "-p", "5433"]
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "toto", "-d", "testdb", "-p", "5433"]
+      interval: 5s
+      retries: 5
+      timeout: 3s
+
+  web:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy  # Wait until the database is ready
+    environment:
+      DATABASE_URL: postgres://toto:1234@db:5433/testdb
+    ports:
+      - "8000:8000"
+    networks:
+      - app-network
+    command: >
+      sh -c "sleep 5 && python /app/app.py"
+
+volumes:
+  postgres_data:
+
+networks:
+  app-network:
