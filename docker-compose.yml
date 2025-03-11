@@ -15,9 +15,9 @@ services:
     command: ["postgres", "-p", "5433"]
     healthcheck:
       test: ["CMD", "pg_isready", "-U", "toto", "-d", "testdb", "-p", "5433"]
-      interval: 5s
+      interval: 1s
       retries: 5
-      timeout: 3s
+      timeout: 4s
 
 
   web:
@@ -32,7 +32,7 @@ services:
     networks:
       - app-network
     command: >
-      sh -c "sleep 5 && python /app/app.py"
+      sh -c "sleep 1 && python /app/app.py"
 
 volumes:
   postgres_data:

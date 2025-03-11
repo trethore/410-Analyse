@@ -20,6 +20,7 @@
                 <th>Title</th>
                 <th>Year</th>
                 <th>Venue</th>
+                <th>Publisher</th>
                 <th>URL</th>
             </tr>
         </thead>
@@ -34,11 +35,13 @@
 
             data.forEach(hit => {
                 const row = document.createElement("tr");
+                console.log(hit);
                 row.innerHTML = `
                     <td>${hit.id}</td>
                     <td>${hit.title}</td>
                     <td>${hit.year}</td>
                     <td>${hit.venue}</td>
+                    <td>${hit.publisher}</td>
                     <td><a href="${hit.url}" target="_blank">View</a></td>
                 `;
                 tableBody.appendChild(row);

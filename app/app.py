@@ -60,6 +60,5 @@ def home():
     return render_template("index.html")  # Serve the frontend
 
 if __name__ == "__main__":
-    print("Process started")
-    exec(open('/app/populate.py').read())
+    print("App started")
     app.run(host="0.0.0.0", port=8000, debug=True)

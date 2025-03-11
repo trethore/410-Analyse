@@ -10,7 +10,7 @@ DB_PORT = os.getenv("DB_PORT", "5433")
 
 API_URL = "https://dblp.org/search/publ/api?q=data&h=100&format=json"
 
-res = requests.get(API_URL)
+res = requests.get(API_URL, verify=False)
 data = res.json()
 
 conn = psycopg2.connect(
@@ -85,6 +85,7 @@ def insert_hit_authors(hit_id, author_id):
     """, (hit_id, author_id))
 
 def populate_database():
+    print("called")
     hits = data.get("result", {}).get("hits", {}).get("hit", [])
     if not hits:
         print("Aucun résultat à insérer.")
@@ -100,6 +101,7 @@ def populate_database():
                 author_id = insert_author(author)
                 insert_hit_authors(hit_id, author_id)
 
+    print('hists length', len(hits))
     conn.commit()
     cur.close()
     conn.close()
