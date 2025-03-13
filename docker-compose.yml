@@ -1,32 +1,43 @@
+version: '3.8'
+
 services:
-  db:
-    image: postgres:15
+  mongodb:
+    image: mongo:6-jammy
     environment:
-      POSTGRES_USER: toto
-      POSTGRES_PASSWORD: 1234
-      POSTGRES_DB: testdb
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_DATABASE: testdb
     ports:
-      - "5433:5433"
+      - "27017:27017"
     volumes:
-      - postgres_data:/var/lib/postgresql/data
-      - ./app/bdd/db.sql:/docker-entrypoint-initdb.d/db.sql  # Ensure SQL file is loaded
+      - mongo_data:/data/db
     networks:
       - app-network
-    command: ["postgres", "-p", "5433"]
-    healthcheck:
-      test: ["CMD", "pg_isready", "-U", "toto", "-d", "testdb", "-p", "5433"]
-      interval: 1s
-      retries: 5
-      timeout: 4s
 
+  nominatim:
+    image: mediagis/nominatim:4.5
+    ports:
+      - "8080:8080"
+    environment:
+      PBF_URL: https://download.geofabrik.de/europe/monaco-latest.osm.pbf
+      REPLICATION_URL: https://download.geofabrik.de/europe/monaco-updates/
+      NOMINATIM_PASSWORD: very_secure_password
+    volumes:
+      - nominatim-data:/var/lib/postgresql/14/main
+    networks:
+      - app-network
+    shm_size: 1gb
 
   web:
     build: .
     depends_on:
-      db:
-        condition: service_healthy  # Wait until the database is ready
+      mongodb:
+        condition: service_healthy
+      nominatim:
+        condition: service_started
     environment:
-      DATABASE_URL: postgres://toto:1234@db:5433/testdb
+      DATABASE_URL: mongodb://root:example@mongodb:27017/testdb
+      NOMINATIM_URL: http://nominatim:8080/
     ports:
       - "8000:8000"
     networks:
@@ -35,7 +46,8 @@ services:
       sh -c "sleep 1 && python /app/app.py"
 
 volumes:
-  postgres_data:
+  mongo_data:
+  nominatim-data:
 
 networks:
   app-network:

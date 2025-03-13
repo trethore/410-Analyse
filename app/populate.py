@@ -1,111 +1,46 @@
 import os
 import requests
-import psycopg2
+from pymongo import MongoClient
 
-DB_NAME = os.getenv("POSTGRES_DB", "testdb")
-DB_USER = os.getenv("POSTGRES_USER", "toto")
-DB_PASSWORD = os.getenv("POSTGRES_PASSWORD", "1234")
-DB_HOST = os.getenv("DB_HOST", "db")  # Use 'db' as the hostname inside Docker
-DB_PORT = os.getenv("DB_PORT", "5433")
-
-API_URL = "https://dblp.org/search/publ/api?q=data&h=100&format=json"
-
-res = requests.get(API_URL, verify=False)
-data = res.json()
-
-conn = psycopg2.connect(
-    dbname=DB_NAME,
-    user=DB_USER,
-    password=DB_PASSWORD,
-    host=DB_HOST,
-    port=DB_PORT
-)
-cur = conn.cursor()
-
-def insert_hit(hit):
-    cur.execute("""
-        INSERT INTO search_api.hits (
-            score, 
-            hit_key, 
-            hit_url, 
-            title, 
-            venue, 
-            publisher, 
-            year, 
-            type, 
-            access, 
-            key, 
-            doi, 
-            ee, 
-            url
-        )
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-        RETURNING id
-    """, (
-        hit.get('@score'),
-        hit.get('info', {}).get('key'),     
-        hit.get('url'),                  
-        hit.get('info', {}).get('title'),
-        hit.get('info', {}).get('venue'),
-        hit.get('info', {}).get('publisher'),
-        hit.get('info', {}).get('year'),
-        hit.get('info', {}).get('type'),
-        hit.get('info', {}).get('access'),
-        hit.get('info', {}).get('key'),
-        hit.get('info', {}).get('doi'),
-        hit.get('info', {}).get('ee'),
-        hit.get('info', {}).get('url'),
-    ))
-    return cur.fetchone()[0]
-
-def insert_author(author):
-    pid = author.get("@pid")
-    name = author.get("text")
-    if not pid:
+def fetch_data(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  
+        return response.json()
+    except Exception as e:
+        print(f"Error fetching data: {e}")
         return None
 
-    cur.execute("SELECT id FROM search_api.authors WHERE pid = %s", (pid,))
-    existing = cur.fetchone()
-    if existing:
-        return existing[0]
-
-    cur.execute("""
-        INSERT INTO search_api.authors (pid, name)
-        VALUES (%s, %s)
-        RETURNING id
-    """, (pid, name))
-    return cur.fetchone()[0]
-
-def insert_hit_authors(hit_id, author_id):
-    if author_id is None:
-        return
-    cur.execute("""
-        INSERT INTO search_api.hit_authors (hit_id, author_id)
-        VALUES (%s, %s)
-    """, (hit_id, author_id))
-
-def populate_database():
-    print("called")
-    hits = data.get("result", {}).get("hits", {}).get("hit", [])
-    if not hits:
-        print("Aucun résultat à insérer.")
-    else:
-        for hit in hits:
-            hit_id = insert_hit(hit)
-
-            authors = hit.get("info", {}).get("authors", {}).get("author", [])
-            if isinstance(authors, dict):
-                authors = [authors]
-
-            for author in authors:
-                author_id = insert_author(author)
-                insert_hit_authors(hit_id, author_id)
-
-    print('hists length', len(hits))
-    conn.commit()
-    cur.close()
-    conn.close()
-    print("Import terminé avec succès.")
+def store_data_in_mongodb(data, collection_name="documents"):
+    try:
+        mongo_uri = os.environ.get("DATABASE_URL", "mongodb://localhost:27017/")
+        client = MongoClient(mongo_uri)
+        db = client.get_default_database()
+        collection = db[collection_name]
+        
+        if "docs" in data:
+            docs = data["docs"]
+        elif "response" in data and "docs" in data["response"]:
+            docs = data["response"]["docs"]
+        else:
+            print("No documents found in the data.")
+            return
+        
+        if docs:
+            
+            result = collection.insert_many(docs)
+            print(f"Inserted {len(result.inserted_ids)} documents into MongoDB.")
+        else:
+            print("No documents to insert.")
+    except Exception as e:
+        print(f"Error storing data in MongoDB: {e}")
 
 if __name__ == "__main__":
-    populate_database()
+    url = ("https://api.archives-ouvertes.fr/search/"
+           "?q=structCountry_s:fr&wt=json&fl=authFullName_s,producedDateY_i,"
+           "publisher_s,docid,uri_s,title_s,fileMain_s,labStructAcronym_s,page_s,"
+           "structCountry_s,city_s,labStructAddress_s&rows=1000")
+    
+    data = fetch_data(url)
+    if data:
+        store_data_in_mongodb(data)
