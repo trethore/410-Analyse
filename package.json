@@ -4,12 +4,17 @@
   "description": "Node.js with MongoDB application",
   "main": "index.js",
   "scripts": {
-    "prestart": "node src/data/mongo/cities.js",
+    "prestart": "node src/data/mongo/cities.js && node src/data/mongo/data.js && node src/data/mongo/arcticleswithcoords.js",
     "start": "node src/main.js"
   },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.5.0",
-    "csv-parser": "^3.2.0"
+    "csv-parser": "^3.2.0",
+    "axios": "^1.8.4",
+    "ini": "^5.0.0",
+    "leaflet": "^1.9.4",
+    "chart.js": "^4.4.8",
+    "leaflet.markercluster": "^1.5.3"
   }
 }

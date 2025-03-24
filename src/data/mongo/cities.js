@@ -11,11 +11,11 @@ async function importCSV() {
     await client.connect();
     console.log('Connected to MongoDB');
 
-    const database = client.db('citiesdb');
+    const database = client.db('db');
     const collection = database.collection('cities');
 
     const results = [];
-    fs.createReadStream(path.join(__dirname, '..', 'files', 'worldcities.csv'))
+    fs.createReadStream(path.join(__dirname, '..', 'files', 'cities.csv'))
       .pipe(csv())
       .on('data', (data) => results.push(data))
       .on('end', async () => {

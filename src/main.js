@@ -16,11 +16,31 @@ client.connect()
 
 app.get('/api/cities', async (req, res) => {
   try {
-    const cities = await client.db('citiesdb').collection('cities').find().toArray();
+    const cities = await client.db('db').collection('cities').find().toArray();
     res.json(cities);
   } catch (err) {
     console.error(err);
     res.status(500).send('Error retrieving cities');
+  }
+});
+
+app.get('/api/articles', async (req, res) => {
+  try {
+    const articles = await client.db('db').collection('articles').find().toArray();
+    res.json(articles);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send('Error retrieving articles');
+  }
+});
+
+app.get('/api/articlesWithCoords', async (req, res) => {
+  try {
+    const enrichedArticles = await client.db('db').collection('articlesWithCoords').find().toArray();
+    res.json(enrichedArticles);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send('Error retrieving enriched articles');
   }
 });
 
