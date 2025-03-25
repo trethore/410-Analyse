@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let currentPage = 1;
   const itemsPerPage = 50;
 
-  // Get DOM elements
+  
   const articlesDiv = document.getElementById('articles');
   const paginationDiv = document.getElementById('pagination');
   const filterInputs = {
@@ -15,12 +15,12 @@ document.addEventListener('DOMContentLoaded', () => {
     city: document.getElementById('filterCity')
   };
 
-  // Check that pagination element exists
+  
   if (!paginationDiv) {
     console.error('Pagination element not found!');
   }
 
-  // Fetch articles from API
+  
   fetch('/api/articlesWithCoords')
     .then(response => response.json())
     .then(data => {
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
       console.error('Error fetching enriched articles:', err);
     });
 
-  // Filter articles using safe string conversion
+  
   function filterArticles() {
     filteredArticles = allArticles.filter(article => {
       let match = true;
@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Display the articles for the current page
+  
   function displayArticles() {
     articlesDiv.innerHTML = '';
 
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const totalItems = filteredArticles.length;
     const totalPages = Math.ceil(totalItems / itemsPerPage);
 
-    // Ensure currentPage is within bounds
+    
     if (currentPage > totalPages) currentPage = totalPages;
     if (currentPage < 1) currentPage = 1;
 
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
     displayPagination();
   }
 
-  // Create pagination controls
+  
   function displayPagination() {
     if (!paginationDiv) return;
     paginationDiv.innerHTML = '';
@@ -149,7 +149,6 @@ document.addEventListener('DOMContentLoaded', () => {
     paginationDiv.appendChild(nextBtn);
   }
 
-  // Attach event listeners to filter inputs
   Object.values(filterInputs).forEach(input => {
     input.addEventListener('input', () => {
       currentPage = 1;
