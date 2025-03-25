@@ -60,7 +60,7 @@ async function loadData(client, amount) {
   const db = client.db('db');
   await importData(db, amount);
   await enrichArticlesWithCoords(db);
-  return 'Import & enrichment completed successfully';
+  return 'Import & enrichment completed successfully please reload the page';
 }
 
 module.exports = { loadData };

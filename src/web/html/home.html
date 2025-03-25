@@ -2,43 +2,61 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>410-Analyse</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>410-Analyse</title>
 
-    <link rel="stylesheet" href="/leaflet/leaflet.css" />
-    <link rel="stylesheet" href="/leaflet-markercluster/MarkerCluster.css" />
-    <link rel="stylesheet" href="/leaflet-markercluster/MarkerCluster.Default.css" />
-    <link rel="stylesheet" href="../style/style.css" />
+  <link rel="stylesheet" href="/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="/leaflet-markercluster/MarkerCluster.css" />
+  <link rel="stylesheet" href="/leaflet-markercluster/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="../style/style.css" />
 
-    <script src="/leaflet/leaflet.js"></script>
-    <script src="/leaflet-markercluster/leaflet.markercluster.js"></script>
+  <script src="/leaflet/leaflet.js"></script>
+  <script src="/leaflet-markercluster/leaflet.markercluster.js"></script>
 
-    <script src="../scripts/home.js"></script>
-    <script src="../scripts/map.js"></script>
-    <script src="../scripts/dataManager"></script>
-    
+  <!-- Include home.js after the DOM elements -->
+  <script src="../scripts/home.js"></script>
+  <script src="../scripts/map.js"></script>
+  <script src="../scripts/dataManager"></script>
 </head>
 
 <body>
-    <h1>Analyse</h1>
-    <p>Veuillez importer des datas</p>
+  <h1>Analyse</h1>
+  <div class="data-container">
+    <p>Veuillez importer des données et attendre la fin du chargement</p>
     <input type="number" id="dataAmount" min="1" step="1" placeholder="Nombre en centaines">
     <button onclick="triggerImport()">Importer</button>
-    <button onclick="save()">💾 Sauvegarder le cache</button>
-    <button onclick="load()">📥 Charger depuis le cache</button>
+    <button onclick="save()">Sauvegarder le cache</button>
+    <button onclick="load()">Charger depuis le cache</button>
+  </div>
 
-    <div class="map-container">
-        <h2>Carte des articles</h2>
-        <div id="map"></div>
+  <div class="map-container">
+    <h2>Carte des articles</h2>
+    <div id="map"></div>
+  </div>
+
+  <div class="chart-container">
+    <h2>Statistiques</h2>
+    <canvas id="yearChart" width="600" height="400"></canvas>
+    <script src="/chartjs/chart.umd.js"></script>
+    <script src="../scripts/chart.js"></script>
+  </div>
+
+  <div class="articles-container">
+    <h2>Liste des Articles</h2>
+    <!-- Filter Inputs -->
+    <div id="filters">
+      <input type="text" id="filterTitle" placeholder="Filter by Title">
+      <input type="text" id="filterYear" placeholder="Filter by Year">
+      <input type="text" id="filterPublisher" placeholder="Filter by Publisher">
+      <input type="text" id="filterLab" placeholder="Filter by Lab Acronym">
+      <input type="text" id="filterCity" placeholder="Filter by City">
     </div>
-
-
-    <div>
-        <h2>Liste des Articles</h2>
-        <div id="articles"></div>
-    </div>
-
+    <!-- Articles List -->
+    <div id="articles"></div>
+    <!-- Pagination Controls -->
+    <div id="pagination"></div>
+  </div>
 </body>
 
 </html>

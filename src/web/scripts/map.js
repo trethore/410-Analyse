@@ -19,7 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
         data.forEach(article => {
           if (article.latitude && article.longitude) {
             const marker = L.marker([article.latitude, article.longitude])
-                .bindPopup(`<strong>${article.title_s}</strong><br><a href="${article.uri_s}" target="_blank">Link</a>`);
+                .bindPopup(`<strong>Title:</strong> ${article.title_s}<br>
+                  Authors: ${article.authFullName_s}<br>
+                  <a href="${article.uri_s}" target="_blank">Link</a>`);
             markers.addLayer(marker);
           }
         });

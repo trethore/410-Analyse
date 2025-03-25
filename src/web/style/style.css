@@ -1,5 +1,4 @@
 
-/* General Reset & Font */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -14,7 +13,6 @@ body {
     line-height: 1.6;
 }
 
-/* Header */
 h1 {
     text-align: center;
     color: #333;
@@ -22,7 +20,6 @@ h1 {
     margin-bottom: 30px;
 }
 
-/* Form Elements */
 input[type="number"] {
     padding: 12px 15px;
     border: 1px solid #ccc;
@@ -40,9 +37,8 @@ input[type="number"]:focus {
     outline: none;
 }
 
-/* Buttons */
 button {
-    background-color: #0057D9; /* Professional blue */
+    background-color: #0057D9; 
     color: #fff;
     border: none;
     padding: 12px 20px;
@@ -57,8 +53,10 @@ button:hover {
     background-color: #003EAA;
 }
 
-/* Map Section */
-.map-container {
+.map-container,
+.articles-container,
+.data-container,
+.chart-container {
     margin-top: 40px;
     background-color: #fff;
     padding: 25px;
@@ -66,26 +64,18 @@ button:hover {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+
 #map {
     height: 500px;
     border-radius: 12px;
 }
 
-/* Articles Section */
-#articles {
-    margin-top: 30px;
-    padding: 25px;
-    background-color: #fff;
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
 
 #articles h3 {
     color: #0057D9;
     margin-bottom: 10px;
 }
 
-/* Section Titles */
 h2 {
     font-size: 1.8rem;
     color: #333;

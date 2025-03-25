@@ -10,6 +10,7 @@ const port = 3000;
 app.use(express.static(path.join(__dirname, 'web')));
 app.use(express.json());
 
+app.use('/chartjs', express.static(path.join(__dirname, '..', 'node_modules', 'chart.js', 'dist')));
 app.use('/leaflet', express.static(path.join(__dirname, '..', 'node_modules', 'leaflet', 'dist')));
 app.use('/leaflet-markercluster', express.static(path.join(__dirname, '..', 'node_modules', 'leaflet.markercluster', 'dist')));
 

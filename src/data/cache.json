@@ -1,603 +1,890 @@
 [
   {
-    "_id": "67e2b5e33f596e73376438a9",
-    "docid": "3173116",
+    "_id": "67e2e233399f18f176899b22",
+    "docid": "972064",
     "title_s": [
-      "Future of nanomedicines, resources and fundings : Nanofar European Doctorate"
+      "Optimisation de la séparation de composés acides et basiques"
     ],
     "authFullName_s": [
-      "Frank Boury"
-    ],
-    "labStructAcronym_s": [
-      "MINT"
+      "Sabine Heinisch"
     ],
     "structCountry_s": [
       "fr",
       "fr",
       "fr",
       "fr",
+      "fr",
+      "fr",
       "fr"
     ],
-    "uri_s": "https://univ-angers.hal.science/hal-03173116v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2014,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e73376438af",
-    "docid": "35260",
-    "title_s": [
-      "Le grand patronat français et le travail pour l'Allemagne"
-    ],
-    "authFullName_s": [
-      "Jean-Pierre Daviet"
-    ],
     "labStructAcronym_s": [
-      "CRHQ"
+      "ISA"
     ],
     "labStructAddress_s": [
-      "Esplanade de la Paix 14032 CAEN CEDEX"
+      "5 rue de la Doua, 69100 Villeurbanne"
+    ],
+    "uri_s": "https://hal.science/hal-00972064v1",
+    "city_s": "Rouen",
+    "producedDateY_i": 2011,
+    "latitude": "49.441495678",
+    "longitude": "1.093575536"
+  },
+  {
+    "_id": "67e2e233399f18f176899b27",
+    "docid": "972140",
+    "title_s": [
+      "Essais d'évaluation du LIDAR 510 M"
+    ],
+    "authFullName_s": [
+      "Tamara Menard",
+      "Yves Godet",
+      "Michel Nomine",
+      "Derk Weidauer",
+      "Jean-Pierre Wolf"
     ],
     "structCountry_s": [
+      "fr",
+      "de",
+      "fr",
       "fr",
       "fr",
       "fr",
       "fr"
     ],
-    "uri_s": "https://shs.hal.science/halshs-00004476v1",
-    "city_s": "Caen",
-    "page_s": "p. 465-478",
-    "publisher_s": [
-      "Centre de recherche d'histoire quantitative"
+    "labStructAcronym_s": [
+      "LASIM"
     ],
+    "labStructAddress_s": [
+      "Bât. A. Kastler 43 Bd du 11 Novembre 1918 69622 VILLEURBANNE CEDEX"
+    ],
+    "uri_s": "https://ineris.hal.science/ineris-00972140v1",
+    "city_s": "Durban",
+    "producedDateY_i": 1998,
+    "fileMain_s": "https://ineris.hal.science/ineris-00972140/document",
+    "latitude": "43.539306797",
+    "longitude": "0.565545775"
+  },
+  {
+    "_id": "67e2e233399f18f176899b2a",
+    "docid": "4086934",
+    "title_s": [
+      "LA REDUCTION DU RISQUE ALIMENTAIRE : CADRE THEORIQUE ET PROPOSITION D'UN MODELE EXPLICATIF DE DECISION D'ACHAT PRESENTANT LE ROLE DE LA CONFIANCE"
+    ],
+    "authFullName_s": [
+      "Paul-Emmanuel Pichon"
+    ],
+    "labStructAcronym_s": [
+      "CERTOP"
+    ],
+    "labStructAddress_s": [
+      "5 Allée Antonio Machado 31058 TOULOUSE CEDEX 1"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://univ-tlse2.hal.science/hal-04086934v1",
+    "city_s": "Venise",
     "producedDateY_i": 2003,
-    "latitude": "49.184977638",
-    "longitude": "-0.369888818"
+    "fileMain_s": "https://univ-tlse2.hal.science/hal-04086934/document",
+    "latitude": "47.349654114",
+    "longitude": "6.113475713"
   },
   {
-    "_id": "67e2b5e33f596e73376438b1",
-    "docid": "285377",
+    "_id": "67e2e233399f18f176899b2e",
+    "docid": "2488669",
     "title_s": [
-      "Instabilités de Combustion et Acoustique"
+      "Diversités et convergences franco-britanniques : formation et pratiques d'éducation à la citoyenneté active en classe et hors classe"
     ],
     "authFullName_s": [
-      "Geoffrey Searby"
-    ],
-    "labStructAcronym_s": [
-      "IRPHE"
-    ],
-    "labStructAddress_s": [
-      "Technopole de Chateau-Gombert - 49 rue Joliot Curie - BP 146 - 13384 MARSEILLE cedex 13"
+      "Véronique Lemoine"
     ],
     "structCountry_s": [
       "fr",
       "fr",
-      "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-00285377v1",
-    "city_s": "Anglet",
-    "producedDateY_i": 2006,
-    "latitude": "43.490658951",
-    "longitude": "-1.515103364"
-  },
-  {
-    "_id": "67e2b5e33f596e73376438b6",
-    "docid": "2783500",
-    "title_s": [
-      "Interet des sursemis de trefle souterrain dans les ameliorations pastorales sur pare-feu"
-    ],
-    "authFullName_s": [
-      "M. Etienne"
-    ],
     "labStructAcronym_s": [
-      "ECODEVELOPPEMENT"
+      "CIREL"
     ],
     "labStructAddress_s": [
-      "INRAE Domaine Saint-Paul- Site Agroparc - 84914 AVIGNON CEDEX 9"
+      "Université Lille- Sciences et Technologies - Bât B6, CIREL- 59655 Villeneuve d'Ascq Cedex"
     ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02783500v1",
-    "city_s": "Montpellier",
-    "publisher_s": [
-      "Servicio de Investigacion Agraria de Extremadura"
-    ],
-    "producedDateY_i": 1987,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
+    "uri_s": "https://hal.univ-lorraine.fr/hal-02488669v1",
+    "city_s": "Lille",
+    "producedDateY_i": 2015,
+    "latitude": "50.631855028",
+    "longitude": "3.046986424"
   },
   {
-    "_id": "67e2b5e33f596e73376438c0",
-    "docid": "2783455",
+    "_id": "67e2e233399f18f176899b2f",
+    "docid": "2807377",
     "title_s": [
-      "Valeur nutritive du lupin blanc doux en alimentation animale"
+      "Role of p-glycoprotein in the establishment of parasitic nematode"
     ],
     "authFullName_s": [
-      "L. Lacassagne"
+      "Mohamed Issouf",
+      "Fabrice Guégnard",
+      "Christine Koch",
+      "Christine Sauve Sauvé",
+      "Cédric Neveu",
+      "Dominique Kerboeuf"
     ],
     "labStructAcronym_s": [
-      "SRA"
+      "UR IASP"
     ],
     "labStructAddress_s": [
-      "NOUZILLY"
+      "INRA 37380 Nouzilly"
     ],
     "structCountry_s": [
       "fr",
       "fr"
     ],
-    "uri_s": "https://hal.inrae.fr/hal-02783455v1",
-    "city_s": "La Rochelle",
-    "publisher_s": [
-      "Association internationale du lupin"
-    ],
-    "producedDateY_i": 1984,
-    "latitude": "47.751840681",
-    "longitude": "5.725168629"
+    "uri_s": "https://hal.inrae.fr/hal-02807377v1",
+    "city_s": "Nouzilly",
+    "page_s": "1 p.",
+    "producedDateY_i": 2011,
+    "latitude": "47.537120176",
+    "longitude": "0.740754095"
   },
   {
-    "_id": "67e2b5e33f596e73376438c3",
-    "docid": "4455175",
+    "_id": "67e2e233399f18f176899b32",
+    "docid": "2734568",
     "title_s": [
-      "“Sauver la planète ou manger plus de légumineuses ?” Étude de l’identification des raisons et des moyens de réduire sa consommation de viande pour mieux comprendre l’intention de le faire"
+      "Résultats du Focus Group du PEI-AGRI “Systèmes de polyculture-élevage”"
     ],
     "authFullName_s": [
-      "Camille Langlais",
-      "Christophe Demarque",
-      "Mauduy Maxime",
-      "Cécile Sénémeaud"
-    ],
-    "labStructAcronym_s": [
-      "LPCN",
-      "LPS (URP_4471)",
-      "LPCN"
-    ],
-    "labStructAddress_s": [
-      "Esplanade de la paix, CS 14032, 14032 Caen cedex 5",
-      "Institut de psychologie 71 Avenue Edouard Vaillant 92774 Boulogne Cedex",
-      "Esplanade de la paix, CS 14032, 14032 Caen cedex 5"
+      "Andrés Manuel García Lamparte",
+      "Julie Ryschawy"
     ],
     "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
+      "es",
       "fr",
       "fr",
       "fr",
       "fr"
     ],
-    "uri_s": "https://normandie-univ.hal.science/hal-04455175v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2023,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e73376438c4",
-    "docid": "1664727",
-    "title_s": [
-      "Fieldwork preparation",
-      "La préparation du terrain"
-    ],
-    "authFullName_s": [
-      "Tom Durand"
-    ],
     "labStructAcronym_s": [
-      "SeDyL"
+      "AGIR"
     ],
     "labStructAddress_s": [
-      "7 rue Guy Moquet - 94800 Villejuif"
+      "Centre de Recherches INRA de Toulouse Chemin de Borderouge 31326 CASTANET TOLOSAN"
     ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01664727v1",
-    "city_s": "Villejuif",
+    "uri_s": "https://hal.inrae.fr/hal-02734568v1",
+    "city_s": "Dijon",
     "producedDateY_i": 2017,
-    "latitude": "48.792392355",
-    "longitude": "2.35987795"
+    "fileMain_s": "https://hal.inrae.fr/hal-02734568/document",
+    "latitude": "47.322850621",
+    "longitude": "5.037471304"
   },
   {
-    "_id": "67e2b5e33f596e73376438c9",
-    "docid": "2840601",
+    "_id": "67e2e233399f18f176899b34",
+    "docid": "7228",
     "title_s": [
-      "Les nouvelles orientations de la politique agricole française",
-      "[The new adjustment of the French agricultural policy]"
+      "Collective transverse motion of clusters $(3 \\leq Z \\leq 6)$ in highly stopped Au (150 A MeV) + Au reactions"
     ],
     "authFullName_s": [
-      "Jean-Christophe Kroll"
+      "C. Kuhn",
+      "C. Roy",
+      "J.P. Coffin",
+      "P. Wagner",
+      "C. Cerruti",
+      "P. Crochet",
+      "P. Fintz",
+      "G. Guillaume",
+      "A. Houari",
+      "F. Jundt",
+      "F. Rami",
+      "L. Tizniti",
+      "J. Konopka",
+      "H. Stocker"
     ],
     "labStructAcronym_s": [
-      "UM DIJON INRA/ENESAD"
+      "IReS"
+    ],
+    "labStructAddress_s": [
+      "23 rue du Loess - BP 28 - 67037 Strasbourg Cedex 2"
     ],
     "structCountry_s": [
       "fr",
       "fr",
       "fr",
       "fr",
-      "de"
+      "fr"
     ],
-    "uri_s": "https://hal.inrae.fr/hal-02840601v1",
-    "city_s": "Strasbourg",
-    "page_s": "Non paginé / 20 p.",
-    "producedDateY_i": 2000,
-    "latitude": "48.571265",
-    "longitude": "7.767760376"
+    "uri_s": "https://in2p3.hal.science/in2p3-00003625v1",
+    "city_s": "Tours",
+    "page_s": "329-339",
+    "publisher_s": [
+      "World Scientific"
+    ],
+    "producedDateY_i": 1994,
+    "latitude": "47.398410522",
+    "longitude": "0.6961002820000001"
   },
   {
-    "_id": "67e2b5e33f596e73376438cb",
-    "docid": "593806",
+    "_id": "67e2e233399f18f176899b36",
+    "docid": "4411008",
     "title_s": [
-      "Chaire Modélisation prospective au service du Développement Durable"
+      "« Tenir son rang » à l’église : le rôle des bancs et des chaises en France sous l’Ancien Régime"
     ],
     "authFullName_s": [
-      "Nadia Maïzi",
-      "Edi Assoumou"
+      "Stéphane Gomis"
     ],
     "labStructAcronym_s": [
-      "CMA"
+      "CHEC"
     ],
     "labStructAddress_s": [
-      "Centre de Mathématiques Appliquées Rue Claude Daunesse CS 10207 06904 Sophia Antipolis Cedex"
+      "Maison des Sciences de l’Homme, 4 rue Ledru, 63057 Clermont-Ferrand Cedex 1"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://uca.hal.science/hal-01897969v1",
+    "city_s": "Limoges",
+    "page_s": "124-134",
+    "producedDateY_i": 2008,
+    "fileMain_s": "https://uca.hal.science/hal-01897969/document",
+    "latitude": "45.854408855",
+    "longitude": "1.248829946"
+  },
+  {
+    "_id": "67e2e233399f18f176899b42",
+    "docid": "1127069",
+    "title_s": [
+      "Saint-Projet-Saint-Constant : une exploitation rurale du XIe siècle."
+    ],
+    "authFullName_s": [
+      "Thierry Cornec",
+      "Emmanuel Barbier",
+      "Graziella Rassat",
+      "Simon Painsonneau"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "labStructAcronym_s": [
+      "GEOLAB"
+    ],
+    "labStructAddress_s": [
+      "4, rue Ledru 63057 CLERMONT FERRAND CEDEX 1"
+    ],
+    "uri_s": "https://unilim.hal.science/hal-01127069v1",
+    "city_s": "Chauvigny",
+    "producedDateY_i": 2012,
+    "latitude": "46.554397396",
+    "longitude": "0.678427423"
+  },
+  {
+    "_id": "67e2e233399f18f176899b43",
+    "docid": "1287705",
+    "title_s": [
+      "T.Créatif"
+    ],
+    "authFullName_s": [
+      "Yvette Lazzeri"
+    ],
+    "labStructAcronym_s": [
+      "CERIC-UMR 7318"
+    ],
+    "labStructAddress_s": [
+      "CERIC - espace René Cassin 3, avenue Robert Schuman 13628 Aix-en-Provence Cedex 1"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://hal.science/hal-01287705v1",
+    "city_s": "Poitiers",
+    "producedDateY_i": 2015,
+    "latitude": "46.583644875",
+    "longitude": "0.359570095"
+  },
+  {
+    "_id": "67e2e233399f18f176899b45",
+    "docid": "3689801",
+    "title_s": [
+      "Mais comment donc la transmission des savoirs s'opère-t-elle ? Penser les relations scolaires"
+    ],
+    "authFullName_s": [
+      "Marie David"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "labStructAcronym_s": [
+      "CENS"
+    ],
+    "labStructAddress_s": [
+      "Bâtiment Nouveau TertreChemin de la Censive du Tertre44312 NANTES Cedex 3"
+    ],
+    "uri_s": "https://shs.hal.science/halshs-03689801v1",
+    "city_s": "Poitiers",
+    "producedDateY_i": 2013,
+    "latitude": "46.583644875",
+    "longitude": "0.359570095"
+  },
+  {
+    "_id": "67e2e233399f18f176899b4c",
+    "docid": "4568137",
+    "title_s": [
+      "Promoting Youth Resilience in Education and Social-Work: Lessons Learned from Fieldworks in Greenland"
+    ],
+    "authFullName_s": [
+      "Jean-Michel Huctin"
+    ],
+    "labStructAcronym_s": [
+      "CEARC"
+    ],
+    "labStructAddress_s": [
+      "Observatoire de Versailles Saint-Quentin-en-YvelinesUniversité de Versailles Saint-Quentin-en-Yvelines11 Boulevard d'Alembert78280 Guyancourt"
     ],
     "structCountry_s": [
       "fr",
       "fr",
       "fr"
     ],
-    "uri_s": "https://minesparis-psl.hal.science/hal-00593806v1",
-    "city_s": "Fontainebleau",
+    "uri_s": "https://hal.science/hal-04568137v1",
+    "city_s": "Guyancourt",
+    "producedDateY_i": 2018,
+    "latitude": "48.773058155",
+    "longitude": "2.075795692"
+  },
+  {
+    "_id": "67e2e233399f18f176899b53",
+    "docid": "413105",
+    "title_s": [
+      "Lecture hédoniste des dynamiques urbaines sur le Bassin d'Arcachon"
+    ],
+    "authFullName_s": [
+      "Monique Dantas"
+    ],
+    "labStructAcronym_s": [
+      "GREThA"
+    ],
+    "labStructAddress_s": [
+      "Avenue Léon Duguit 33608 PESSAC"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://hal.science/hal-00413105v1",
+    "city_s": "Arcachon",
     "producedDateY_i": 2009,
-    "latitude": "48.406515646",
-    "longitude": "2.680925371"
+    "latitude": "44.653412436",
+    "longitude": "-1.174977983"
   },
   {
-    "_id": "67e2b5e33f596e73376438cf",
-    "docid": "286361",
+    "_id": "67e2e233399f18f176899b5a",
+    "docid": "3130691",
     "title_s": [
-      "Development and conception of an atmospheric pressure plasma enhanced chemical vapour deposition (APPECVD) system using a microwave plasma torch and deposition of thin SiOx like films"
+      "Combien y a-t-il d'arguments dans une construction réfléchie?"
     ],
     "authFullName_s": [
-      "S.S. Asad",
-      "C. Tixier",
-      "Pascal Tristant",
-      "O. Leroy",
-      "C. Boisse-Laporte",
-      "P. Leprince"
+      "Martin Haiden"
     ],
     "labStructAcronym_s": [
-      "SPCTS",
-      "SPCTS"
+      "LLING"
     ],
     "labStructAddress_s": [
-      "SPCTS, Centre Européen de la Céramique, 12 Rue Atlantis, 87068 LIMOGES CEDEX",
-      "SPCTS, Centre Européen de la Céramique, 12 Rue Atlantis, 87068 LIMOGES CEDEX"
+      "7 Chemin de la Censive du Tertre, 44300 Nantes"
     ],
     "structCountry_s": [
       "fr",
       "fr",
       "fr",
+      "fr"
+    ],
+    "uri_s": "https://nantes-universite.hal.science/hal-03130691v1",
+    "city_s": "Fribourg",
+    "producedDateY_i": 2018,
+    "latitude": "48.769931862",
+    "longitude": "6.8717474450000005"
+  },
+  {
+    "_id": "67e2e233399f18f176899b5b",
+    "docid": "3851198",
+    "title_s": [
+      "Quand tradition rime avec innovation. Réflexion ethnographique sur la légitimité de l’usage du terme danse traditionnelle chez les Peuls WoDaaBe du Niger"
+    ],
+    "authFullName_s": [
+      "Mahalia Lassibille"
+    ],
+    "labStructAcronym_s": [
+      "MUSIDANSE"
+    ],
+    "labStructAddress_s": [
+      "Université Paris 8 Vincennes-Saint-Denis - 2 rue de la Liberté - 93526 Saint-Denis cedex"
+    ],
+    "structCountry_s": [
       "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
+      "fr"
+    ],
+    "uri_s": "https://univ-paris8.hal.science/hal-03851198v1",
+    "city_s": "Cannes",
+    "producedDateY_i": 2015,
+    "latitude": "43.552044875",
+    "longitude": "7.004779118"
+  },
+  {
+    "_id": "67e2e233399f18f176899b5e",
+    "docid": "972389",
+    "title_s": [
+      "Estimation de la vulnérabilité d'une structure soumise à un affaissement minier"
+    ],
+    "authFullName_s": [
+      "Olivier Deck"
+    ],
+    "labStructAcronym_s": [
+      "LAEGO"
+    ],
+    "structCountry_s": [
       "fr",
       "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-00286361v1",
+    "uri_s": "https://ineris.hal.science/ineris-00972389v1",
     "city_s": "Toulouse",
-    "producedDateY_i": 2007,
+    "producedDateY_i": 2002,
+    "fileMain_s": "https://ineris.hal.science/ineris-00972389/document",
     "latitude": "43.596037953",
     "longitude": "1.432094901"
   },
   {
-    "_id": "67e2b5e33f596e73376438dd",
-    "docid": "4291004",
+    "_id": "67e2e233399f18f176899b5f",
+    "docid": "2807365",
     "title_s": [
-      "Enroulement amortisseur pour la réduction des bruits et vibrations d'une machine asynchrone alimentée par MLI"
+      "Développement de nouvelles stratégies pour la mise au point d’anti-apicomplexes à visées thérapeutique et pharmacologique"
     ],
     "authFullName_s": [
-      "Grégory Bauw",
-      "François Balavoine",
-      "Cassoret Bertrand",
-      "Raphael Romary"
+      "Mohamed Abarbri",
+      "Fabien Brossier",
+      "Françoise Debierre-Grockiego",
+      "C. Sabourin"
     ],
     "labStructAcronym_s": [
-      "LSEE"
+      "UMR ISP"
     ],
     "labStructAddress_s": [
-      "Faculté des Sciences Appliquées Technoparc Futura 62400 Béthune"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-artois.hal.science/hal-04291004v1",
-    "city_s": "Laval",
-    "producedDateY_i": 2016,
-    "fileMain_s": "https://univ-artois.hal.science/hal-04291004/document",
-    "latitude": "48.061104371",
-    "longitude": "-0.765729369"
-  },
-  {
-    "_id": "67e2b5e33f596e73376438de",
-    "docid": "1805653",
-    "title_s": [
-      "Passage à l’échelle en reconnaissance de symboles graphiques"
-    ],
-    "authFullName_s": [
-      "Jean-Pierre Salmon",
-      "Laurent Wendling"
-    ],
-    "labStructAcronym_s": [
-      "MICA",
-      "LIPADE - EA 2517"
-    ],
-    "labStructAddress_s": [
-      "MSHA, 10 esplanade des antilles, 33607 pessac cedex",
-      "Centre universitaire des Saints Pères45 rue des Saints-Peres75270 PARIS CEDEX 06"
+      "INRA 37380 Nouzilly"
     ],
     "structCountry_s": [
       "fr",
       "fr",
-      "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-01805653v1",
-    "city_s": "Bordeaux",
-    "page_s": "103–109",
-    "publisher_s": [
-      "CIFED"
-    ],
+    "uri_s": "https://hal.inrae.fr/hal-02807365v1",
+    "city_s": "Tours",
     "producedDateY_i": 2012,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
+    "latitude": "47.398410522",
+    "longitude": "0.6961002820000001"
   },
   {
-    "_id": "67e2b5e33f596e73376438ef",
-    "docid": "1805599",
+    "_id": "67e2e233399f18f176899b61",
+    "docid": "566944",
     "title_s": [
-      "Un monument historique vu à travers la philosophie de Nelson Goodman : les métamorphoses de Saint-Front"
+      "Evaluating a calibration method for the estimation for the estimation of fragmented rocks 3D-size-distribution out of 2D images"
     ],
     "authFullName_s": [
-      "Jean-Paul Seloudre"
+      "Souhaïl Outal",
+      "Jacques Schleifer",
+      "E. Pirard"
     ],
     "labStructAcronym_s": [
-      "MICA"
+      "GEOSCIENCES"
     ],
     "labStructAddress_s": [
-      "MSHA, 10 esplanade des antilles, 33607 pessac cedex"
+      "35 rue Saint-Honoré 77305 Fontainebleau cedex"
     ],
     "structCountry_s": [
       "fr",
+      "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-01805599v1",
+    "uri_s": "https://minesparis-psl.hal.science/hal-00566944v1",
+    "city_s": "Grenade",
+    "page_s": "221-228",
+    "producedDateY_i": 2009,
+    "latitude": "43.76369386",
+    "longitude": "1.2802673"
+  },
+  {
+    "_id": "67e2e233399f18f176899b62",
+    "docid": "492384",
+    "title_s": [
+      "Effets magnéto-diélectriques dans les tricouches Co65Fe35B20/PVDF-TrFE/Co65Fe35B20 pour des applications d'agilité en hyperfréquences"
+    ],
+    "authFullName_s": [
+      "Faliniaina Rasoanoavy",
+      "Vincent Laur",
+      "Patrick Queffelec",
+      "Kévin Garello",
+      "Bernard Viala"
+    ],
+    "labStructAcronym_s": [
+      "Lab-STICC",
+      "CEA-LETI"
+    ],
+    "labStructAddress_s": [
+      "Technopole Brest Iroise BP 832 29285 BREST CEDEX",
+      "MINATEC 17, rue des Martyrs, 38054, Grenoble Cedex 9"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://hal.univ-brest.fr/hal-00492384v1",
+    "city_s": "Brest",
+    "page_s": "45",
+    "producedDateY_i": 2010,
+    "latitude": "48.400345079",
+    "longitude": "-4.5024793590000005"
+  },
+  {
+    "_id": "67e2e233399f18f176899b67",
+    "docid": "1287547",
+    "title_s": [
+      "Perméation gazeuse au travers de matériaux superisolants thermiques nanoporeux"
+    ],
+    "authFullName_s": [
+      "Franck Enguehard",
+      "Daniel Plessis",
+      "Cyril Gazzoli"
+    ],
+    "labStructAcronym_s": [
+      "CEA Le Ripault"
+    ],
+    "labStructAddress_s": [
+      "BP 16 37260 Monts"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://hal.science/hal-01287547v1",
+    "city_s": "Toulouse",
+    "producedDateY_i": 2008,
+    "fileMain_s": "https://hal.science/hal-01287547/document",
+    "latitude": "43.596037953",
+    "longitude": "1.432094901"
+  },
+  {
+    "_id": "67e2e233399f18f176899b69",
+    "docid": "566956",
+    "title_s": [
+      "Evaluation des risques de Transport de Matières Dangereuses, méthode cartographique et utilisation"
+    ],
+    "authFullName_s": [
+      "Eliane Propeck-Zimmermann"
+    ],
+    "labStructAcronym_s": [
+      "IV"
+    ],
+    "labStructAddress_s": [
+      "4e étage 3 Rue de l'Argonne 67000 STRASBOURG"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://shs.hal.science/halshs-00566956v1",
+    "city_s": "Honfleur",
+    "producedDateY_i": 2006,
+    "latitude": "49.412728454",
+    "longitude": "0.238229008"
+  },
+  {
+    "_id": "67e2e233399f18f176899b6e",
+    "docid": "1126377",
+    "title_s": [
+      "New results on planar and directed multicuts"
+    ],
+    "authFullName_s": [
+      "Cédric Bentz"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "labStructAcronym_s": [
+      "CEDRIC"
+    ],
+    "labStructAddress_s": [
+      "292 rue Saint-Martin 75141 PARIS Cedex 03Case courrier 2D4P30"
+    ],
+    "uri_s": "https://hal.science/hal-01126377v1",
     "city_s": "Bordeaux",
-    "publisher_s": [
-      "Presses Universitaires de Bordeaux"
-    ],
-    "producedDateY_i": 2014,
+    "page_s": "207-211",
+    "producedDateY_i": 2009,
     "latitude": "44.857621613",
     "longitude": "-0.5733793060000001"
   },
   {
-    "_id": "67e2b5e33f596e73376438f5",
-    "docid": "3087998",
+    "_id": "67e2e233399f18f176899b72",
+    "docid": "1126402",
     "title_s": [
-      "La participation de chercheurs et experts à la dénonciation des violences et dominations dans le travail. L’Observatoire du stress et des mobilités forcées à France Télécom"
+      "MicroFilter: Scalable Real-Time Filtering Of Micro-blogging Content"
     ],
     "authFullName_s": [
-      "Corinne Delmas"
-    ],
-    "labStructAcronym_s": [
-      "CERAPS"
-    ],
-    "labStructAddress_s": [
-      "Faculté des Sciences Juridiques, Politiques et Sociales - 1 Place Deliot - BP 629 59024 LILLE CEDEX"
+      "Ryadh Dahimene",
+      "Cedric Du Mouza"
     ],
     "structCountry_s": [
       "fr",
       "fr",
+      "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-03087998v1",
+    "labStructAcronym_s": [
+      "CEDRIC"
+    ],
+    "labStructAddress_s": [
+      "292 rue Saint-Martin 75141 PARIS Cedex 03Case courrier 2D4P30"
+    ],
+    "uri_s": "https://hal.science/hal-01126402v1",
     "city_s": "Nantes",
+    "page_s": "1-5",
     "producedDateY_i": 2013,
     "latitude": "47.232046411",
     "longitude": "-1.548204252"
   },
   {
-    "_id": "67e2b5e33f596e73376438f8",
-    "docid": "2840969",
+    "_id": "67e2e233399f18f176899b78",
+    "docid": "807174",
     "title_s": [
-      "Structure et ultrastructure des sols et des organismes vivants"
+      "Une méthode Galerkin discontinue nodale pour la propagation non linéaire d'ondes élastiques fonctionnant sur carte graphique (GPU)"
     ],
     "authFullName_s": [
-      "Françoise Elsass",
-      "A.M. Jaunet"
+      "Olivier Bou Matar",
+      "P.Y. Guerder",
+      "Y. Li"
     ],
     "labStructAcronym_s": [
-      "USS"
+      "IEMN"
     ],
     "labStructAddress_s": [
-      "Domaine de Limère, Ardon, BP 20619, 45166 Olivet Cedex"
+      "[Univ. Lille, CNRS, Ecole Centrale Lille, Yncréa-ISEN, UVHC] –– Laboratoire Central – Cité Scientifique – Avenue Poincaré – CS 60069 – 59652 VILLENEUVE D’ASCQ CEDEX"
     ],
     "structCountry_s": [
       "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
       "fr"
     ],
-    "uri_s": "https://hal.inrae.fr/hal-02840969v1",
-    "city_s": "Versailles",
-    "page_s": "231 p.",
-    "publisher_s": [
-      "INRA Editions"
-    ],
-    "producedDateY_i": 1999,
-    "latitude": "48.802292474",
-    "longitude": "2.117410101"
+    "uri_s": "https://hal.science/hal-00807174v1",
+    "city_s": "Lille",
+    "producedDateY_i": 2011,
+    "latitude": "50.631855028",
+    "longitude": "3.046986424"
   },
   {
-    "_id": "67e2b5e33f596e73376438f9",
-    "docid": "2840971",
+    "_id": "67e2e233399f18f176899b79",
+    "docid": "2806415",
     "title_s": [
-      "En quoi les regroupements localisés de producteurs peuvent-ils être des solutions organisationnelles face à la pression des marchés ?"
+      "Impact of IL-17R on the granulocytes recruitment during a pulmonary infection by mycobacteria."
     ],
     "authFullName_s": [
-      "M. Filippi"
+      "Robin Lombard",
+      "Emilie Doz",
+      "Florence Carreras",
+      "Sébastien Holbert",
+      "Dominique Buzoni-Gatel",
+      "Nathalie Winter"
     ],
     "labStructAcronym_s": [
-      "SICOMOR"
+      "UR IASP"
     ],
     "labStructAddress_s": [
-      "31326 Castanet-Tolosan"
+      "INRA 37380 Nouzilly"
     ],
     "structCountry_s": [
       "fr",
       "fr"
     ],
-    "uri_s": "https://hal.inrae.fr/hal-02840971v1",
-    "city_s": "Le Croisic",
-    "page_s": "16 p.",
-    "producedDateY_i": 1999,
-    "latitude": "47.292342312",
-    "longitude": "-2.523701536"
+    "uri_s": "https://hal.inrae.fr/hal-02806415v1",
+    "city_s": "Nouzilly",
+    "page_s": "1p.",
+    "producedDateY_i": 2011,
+    "latitude": "47.537120176",
+    "longitude": "0.740754095"
   },
   {
-    "_id": "67e2b5e33f596e73376438fa",
-    "docid": "2057024",
+    "_id": "67e2e233399f18f176899b7a",
+    "docid": "890448",
     "title_s": [
-      "Víctimas, victimarios y destierros en dos obras teatrales de Koldo Barrena: Regreso y Pintxos"
+      "Valorisation locale d'un itinéraire de pèlerinage et développement durable en moyenne montagne : le chemin de Saint Jacques du Puy-en-Velay à Conques (GR 65)"
     ],
     "authFullName_s": [
-      "María Dolores Alonso Rey"
+      "Mauricette Fournier"
     ],
     "labStructAcronym_s": [
-      "3L.AM"
+      "CERAMAC"
     ],
     "labStructAddress_s": [
-      "Le Mans Université, 3L.AM - UFR de Lettres, Langues et Sciences Humaines, MSH, Avenue Olivier Messiaen - 72085 Le Mans CEDEX 09Université d'Angers, 3L.AM - Faculté de Lettres, Langues et Sciences Humaines, Maison de la Recherche Germaine Tillion, 5 Bis Boulevard Lavoisier - 49045 Angers CEDEX 01"
+      "Maison des Sciences de l'Homme 4 rue Ledru 63057 Clermont-Ferrand Cedex 1"
     ],
     "structCountry_s": [
       "fr",
       "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-02057024v1",
-    "city_s": "Orleans",
-    "page_s": "510",
-    "publisher_s": [
-      "Editions Paradigme"
-    ],
-    "producedDateY_i": 2015,
-    "latitude": "47.873503729",
-    "longitude": "1.917316017"
+    "uri_s": "https://shs.hal.science/halshs-00890448v1",
+    "city_s": "Cologne",
+    "producedDateY_i": 2012,
+    "latitude": "43.717395514",
+    "longitude": "0.975162475"
   },
   {
-    "_id": "67e2b5e33f596e7337643901",
-    "docid": "1318035",
+    "_id": "67e2e233399f18f176899b7b",
+    "docid": "2966800",
     "title_s": [
-      "Comportement maternel chez l’oiseau nidifuge"
+      "Driver Générique pour Cellule de Commutation Bidirectionnelle en Tension et en Courant"
     ],
     "authFullName_s": [
-      "Florent Pittet"
-    ],
-    "labStructAcronym_s": [
-      "EthoS"
-    ],
-    "labStructAddress_s": [
-      "Campus de Beaulieu - Bat 25 263 avenue du Général Leclerc35042 RENNES Cedex"
+      "Marc Cousineau",
+      "Frédéric Richardeau"
     ],
     "structCountry_s": [
       "fr",
       "fr",
       "fr",
       "fr",
+      "fr",
+      "fr",
       "fr"
     ],
-    "uri_s": "https://univ-rennes.hal.science/hal-01318035v1",
-    "city_s": "Dijon",
-    "producedDateY_i": 2013,
-    "latitude": "47.322850621",
-    "longitude": "5.037471304"
+    "labStructAcronym_s": [
+      "LAPLACE"
+    ],
+    "labStructAddress_s": [
+      "118 Route de Narbonne 31062 TOULOUSE CEDEX 9ENSEEIHT, 2 rue Camichel, 31071 Toulouse Cedex 7"
+    ],
+    "uri_s": "https://hal.science/hal-02966800v1",
+    "city_s": "Arcachon",
+    "producedDateY_i": 2007,
+    "latitude": "44.653412436",
+    "longitude": "-1.174977983"
   },
   {
-    "_id": "67e2b5e33f596e7337643905",
-    "docid": "1878339",
+    "_id": "67e2e233399f18f176899b7c",
+    "docid": "4485592",
     "title_s": [
-      "Définition des ayants droit. Associations, avocats et magistrats vis-à-vis du séjour et de la protection en contexte migratoire"
+      "Les gauches et la politique scolaire de Jean Zay (1936-1939). Propositions, soutiens et oppositions"
     ],
     "authFullName_s": [
-      "Laura Odasso"
+      "Jean-François Condette"
     ],
     "labStructAcronym_s": [
-      "DynamE",
-      "LAMES",
-      "TELEMME"
+      "CREHS"
     ],
     "labStructAddress_s": [
-      "Maison Interuniversitaire des Sciences de l'Homme - Alsace (MISHA)5, allée du Général RouvilloisCS 5000867083 Strasbourg cedex",
-      "LAMES - M.M.S.H. 5 Rue du Château de l'Horloge - BP BP647 13094 AIX EN PROVENCE CEDEX 2",
-      "MMSH 5 Rue du château de l'Horloge - BP 647 13094 AIX EN PROVENCE CEDEX 2"
+      "Maison de la recherche 9 rue du Temple - BP665 62030 Arras cedex"
     ],
     "structCountry_s": [
       "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-01878339v1",
+    "uri_s": "https://hal.univ-lille.fr/hal-04485592v1",
     "city_s": "Amiens",
-    "producedDateY_i": 2017,
+    "publisher_s": [
+      "Presses Universitaires de Rennes"
+    ],
+    "producedDateY_i": 2016,
     "latitude": "49.900410245",
     "longitude": "2.289706107"
   },
   {
-    "_id": "67e2b5e33f596e7337643907",
-    "docid": "2371574",
+    "_id": "67e2e233399f18f176899b80",
+    "docid": "2570649",
     "title_s": [
-      "Le document brevet : analyse pragmatiste"
+      "La prise en compte du patrimoine naturel en ZPPAUP : quelques pistes de réflexion"
     ],
     "authFullName_s": [
-      "Nicolas Delforge"
+      "Mathieu Gigot"
     ],
     "labStructAcronym_s": [
-      "IRIST"
+      "CITERES"
     ],
     "labStructAddress_s": [
-      "7, rue de l'Université - 67000 Strasbourg"
+      "33 allée Ferdinand de Lesseps BP 60449 37204 Tours cedex 3"
+    ],
+    "structCountry_s": [
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "uri_s": "https://shs.hal.science/halshs-02570649v1",
+    "city_s": "Blois",
+    "producedDateY_i": 2009,
+    "fileMain_s": "https://shs.hal.science/halshs-02570649/document",
+    "latitude": "47.581535887",
+    "longitude": "1.306088083"
+  },
+  {
+    "_id": "67e2e233399f18f176899b81",
+    "docid": "2806558",
+    "title_s": [
+      "Analyse des gaz dans l’espace de tête pour évaluer l’oxydation des lipides dans les émulsions"
+    ],
+    "authFullName_s": [
+      "Claude Genot",
+      "Michelle Viau"
+    ],
+    "labStructAcronym_s": [
+      "BIA"
+    ],
+    "labStructAddress_s": [
+      "Site de la Géraudière - BP 71627 - 44316 Nantes Cedex 3"
     ],
     "structCountry_s": [
       "fr",
       "fr"
     ],
-    "uri_s": "https://hal.science/hal-02371574v1",
-    "city_s": "Strasbourg",
-    "producedDateY_i": 2016,
-    "latitude": "48.571265",
-    "longitude": "7.767760376"
+    "uri_s": "https://hal.inrae.fr/hal-02806558v1",
+    "city_s": "Arles",
+    "page_s": "1 p.",
+    "producedDateY_i": 2011,
+    "latitude": "43.546935152",
+    "longitude": "4.661799679"
   },
   {
-    "_id": "67e2b5e33f596e733764390c",
+    "_id": "67e2e233399f18f176899b87",
     "docid": "1286921",
     "title_s": [
       "Phénomènes de diffusion dans les réseaux dynamiques : simulation et modélisation"
@@ -624,7 +911,7 @@
     "longitude": "5.7212206420000005"
   },
   {
-    "_id": "67e2b5e33f596e733764391a",
+    "_id": "67e2e233399f18f176899b95",
     "docid": "4567103",
     "title_s": [
       "La défaillance de la plateforme numérique & ses effets transfrontaliers pour les intermédiés"
@@ -650,7 +937,7 @@
     "longitude": "1.606125622"
   },
   {
-    "_id": "67e2b5e33f596e7337643920",
+    "_id": "67e2e233399f18f176899b9b",
     "docid": "970142",
     "title_s": [
       "Risques liés aux nanomatériaux combustibles : stabilité thermique et explosions"
@@ -683,7 +970,7 @@
     "longitude": "5.037471304"
   },
   {
-    "_id": "67e2b5e33f596e7337643926",
+    "_id": "67e2e233399f18f176899ba1",
     "docid": "969904",
     "title_s": [
       "Damage processes during uniaxial compressive tests using acoustic emission monitoring"
@@ -709,7 +996,7 @@
     "longitude": "7.237937874"
   },
   {
-    "_id": "67e2b5e33f596e733764392b",
+    "_id": "67e2e233399f18f176899ba6",
     "docid": "971192",
     "title_s": [
       "Passive sampling to assess the availability of hydrophobic organic pollutants in fresh and matured contaminated sediments"
@@ -741,7 +1028,7 @@
     "longitude": "-0.5733793060000001"
   },
   {
-    "_id": "67e2b5e33f596e733764392c",
+    "_id": "67e2e233399f18f176899ba7",
     "docid": "4086347",
     "title_s": [
       "Antiferroelectric films for energy storage applications"
@@ -798,7 +1085,7 @@
     "longitude": "3.046986424"
   },
   {
-    "_id": "67e2b5e33f596e733764392d",
+    "_id": "67e2e233399f18f176899ba8",
     "docid": "2967043",
     "title_s": [
       "Interprétation de l'analyse des fluctuations redressées appliquées aux signaux de force de préhension palmaire"
@@ -834,7 +1121,7 @@
     "longitude": "-0.5733793060000001"
   },
   {
-    "_id": "67e2b5e33f596e7337643933",
+    "_id": "67e2e233399f18f176899bae",
     "docid": "1061643",
     "title_s": [
       "Pertinence des modèles du SVH pour la sensation et la perception des images médicales"
@@ -870,7 +1157,7 @@
     "longitude": "-4.5024793590000005"
   },
   {
-    "_id": "67e2b5e33f596e7337643938",
+    "_id": "67e2e233399f18f176899bb3",
     "docid": "1450429",
     "title_s": [
       "Complémentation et structure du lexique"
@@ -900,38 +1187,7 @@
     "longitude": "-1.681868718"
   },
   {
-    "_id": "67e2b5e33f596e733764393e",
-    "docid": "4567071",
-    "title_s": [
-      "Relations entre la nostalgie, l'apathie et la motivation intrinsèque chez la personne âgée"
-    ],
-    "authFullName_s": [
-      "Audric Joël Farrié"
-    ],
-    "labStructAcronym_s": [
-      "CERPPS"
-    ],
-    "labStructAddress_s": [
-      "Maison de la Recherche - 5, allées Antonio-Machado31058 Toulouse Cedex 9"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04567071v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2019,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e733764393f",
+    "_id": "67e2e233399f18f176899bb9",
     "docid": "2806390",
     "title_s": [
       "Patrimoine et patrimonialisation dans la démarche du LRDE"
@@ -958,7 +1214,7 @@
     "longitude": "8.700937555"
   },
   {
-    "_id": "67e2b5e33f596e7337643945",
+    "_id": "67e2e233399f18f176899bbf",
     "docid": "3366044",
     "title_s": [
       "Vers une technique holographique de suivi de nanoparticules en temps réel pour caractériser le transport intraneuronal"
@@ -987,7 +1243,7 @@
     "longitude": "5.037471304"
   },
   {
-    "_id": "67e2b5e33f596e7337643950",
+    "_id": "67e2e233399f18f176899bca",
     "docid": "726207",
     "title_s": [
       "Le principe de compensation, un nouveau principe du droit de l'environnement ?"
@@ -1018,7 +1274,7 @@
     "longitude": "0.200118821"
   },
   {
-    "_id": "67e2b5e33f596e7337643959",
+    "_id": "67e2e233399f18f176899bd3",
     "docid": "726270",
     "title_s": [
       "Stratégie diagnostique de l'embolie pulmonaire : PIOPED 2"
@@ -1046,7 +1302,7 @@
     "longitude": "-4.5024793590000005"
   },
   {
-    "_id": "67e2b5e33f596e7337643962",
+    "_id": "67e2e233399f18f176899bdc",
     "docid": "4567042",
     "title_s": [
       "LA TECHNOLOGIE SAUVERA-T-ELLE L'OCÉAN DES PLASTIQUES?"
@@ -1082,7 +1338,7 @@
     "longitude": "-0.159191477"
   },
   {
-    "_id": "67e2b5e33f596e733764396b",
+    "_id": "67e2e233399f18f176899be5",
     "docid": "1061278",
     "title_s": [
       "Commande non-linéaire avancée d'un compensateur statique synchrone: analyse théorique des performances en boucle fermée"
@@ -1117,6179 +1373,5 @@
     "producedDateY_i": 2012,
     "latitude": "45.182206145",
     "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643970",
-    "docid": "4571368",
-    "title_s": [
-      "L'approche centrée sur le développement du pouvoir d'agir: moyen d'émancipation pour les minorités?"
-    ],
-    "authFullName_s": [
-      "Laurence Pisters"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "ETHICS EA 7446"
-    ],
-    "labStructAddress_s": [
-      "Université Catholique de Lille – Maison des chercheurs - 60 boulevard Vauban – CS4010959016 Lille cedex"
-    ],
-    "uri_s": "https://hal.science/hal-04571368v1",
-    "city_s": "Lille",
-    "producedDateY_i": 2017,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643979",
-    "docid": "4335171",
-    "title_s": [
-      "L’art et la réalité du réel"
-    ],
-    "authFullName_s": [
-      "Pierre-Henry Frangne"
-    ],
-    "labStructAcronym_s": [
-      "HCA - EA 1279"
-    ],
-    "labStructAddress_s": [
-      "Université Rennes 2 - UFR Arts, Lettres et Communication - Place du Recteur Henri Le Moal. 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04335171v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2007,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e733764397c",
-    "docid": "3693783",
-    "title_s": [
-      "L'ornement sculpté du Tour de choeur de la cathédrale de Chartres et l'invention d'un nouveau langage à l'antique"
-    ],
-    "authFullName_s": [
-      "Jean Beuvier"
-    ],
-    "labStructAcronym_s": [
-      "CESR"
-    ],
-    "labStructAddress_s": [
-      "59 Rue Néricault-Destouches - BP 12050 37020 TOURS CEDEX 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03693783v1",
-    "city_s": "Chartres",
-    "producedDateY_i": 2022,
-    "latitude": "48.447093224",
-    "longitude": "1.505663165"
-  },
-  {
-    "_id": "67e2b5e33f596e733764397e",
-    "docid": "1128868",
-    "title_s": [
-      "Approche linguistique de la communication dans l'accès et le déroulement des soins"
-    ],
-    "authFullName_s": [
-      "Ghislaine Rolland-Lozachmeur"
-    ],
-    "labStructAcronym_s": [
-      "HCTI"
-    ],
-    "labStructAddress_s": [
-      "20 rue Duquesne 29238 Brest Cedex 03"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-brest.fr/hal-01128868v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2011,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643985",
-    "docid": "1372338",
-    "title_s": [
-      "Alpha gas states and alpha condensation in nuclear systems"
-    ],
-    "authFullName_s": [
-      "P. Schuck"
-    ],
-    "labStructAcronym_s": [
-      "IPNO"
-    ],
-    "labStructAddress_s": [
-      "IPN - 15, rue Georges Clemenceau - 91406 ORSAY CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-01372338v1",
-    "city_s": "Caen",
-    "producedDateY_i": 2016,
-    "latitude": "49.184977638",
-    "longitude": "-0.369888818"
-  },
-  {
-    "_id": "67e2b5e33f596e733764398c",
-    "docid": "3774378",
-    "title_s": [
-      "Réseau profond de matrices symétriques définies positives pour la reconnaissance en temps réel des gestes de la main en 3D"
-    ],
-    "authFullName_s": [
-      "Mostefa Ben Naceur",
-      "Luc Brun",
-      "Olivier Lézoray"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "GREYC"
-    ],
-    "labStructAddress_s": [
-      "Boulevard du Maréchal Juin - 14050 CAEN Cedex"
-    ],
-    "uri_s": "https://hal.science/hal-03774378v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2022,
-    "fileMain_s": "https://hal.science/hal-03774378/document",
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e733764398e",
-    "docid": "1372167",
-    "title_s": [
-      "Je, moi et les autres : des locuteurs aux acteurs dans la dynamique communicationnelle"
-    ],
-    "authFullName_s": [
-      "Robert Nicolaï"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "BCL"
-    ],
-    "labStructAddress_s": [
-      "Laboratoire BCL - UMR 6039 - CNRS - Université de Nice, Campus Saint-Jean d'Angély 3 / MSHS-SE, 24 avenue des Diables bleus, 06357 Nice Cedex 4"
-    ],
-    "uri_s": "https://hal.science/hal-01372167v1",
-    "city_s": "Montpellier",
-    "producedDateY_i": 2009,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
-  },
-  {
-    "_id": "67e2b5e33f596e733764398f",
-    "docid": "1128747",
-    "title_s": [
-      "Borderlands: Storying the Ambiguous"
-    ],
-    "authFullName_s": [
-      "François Gavillon"
-    ],
-    "labStructAcronym_s": [
-      "HCTI"
-    ],
-    "labStructAddress_s": [
-      "20 rue Duquesne 29238 Brest Cedex 03"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-brest.fr/hal-01128747v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2011,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643990",
-    "docid": "336710",
-    "title_s": [
-      "Comparative nonlinear optical coefficients measurements of BBO single crystals as function of the growth method"
-    ],
-    "authFullName_s": [
-      "R.S. Maillard",
-      "A. Maillard",
-      "A. Bahouka",
-      "K. Polgar"
-    ],
-    "labStructAcronym_s": [
-      "LMOPS"
-    ],
-    "labStructAddress_s": [
-      "Université de Lorraine - CentraleSupélec, 2 rue Edouard Belin, 57070 Metz"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00336710v1",
-    "city_s": "Metz",
-    "producedDateY_i": 2006,
-    "latitude": "49.10819284",
-    "longitude": "6.195988106"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643991",
-    "docid": "976454",
-    "title_s": [
-      "Devenir fille, devenir garçon : une construction sociale"
-    ],
-    "authFullName_s": [
-      "Martine Court"
-    ],
-    "labStructAcronym_s": [
-      "GRS"
-    ],
-    "labStructAddress_s": [
-      "Bât. K 5 Av Pierre Mendès-France 69676 BRON CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00976454v1",
-    "city_s": "Tourcoing",
-    "producedDateY_i": 2010,
-    "latitude": "50.725815998",
-    "longitude": "3.159652714"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643992",
-    "docid": "3296001",
-    "title_s": [
-      "Le retraduction, un essai transformé ? : quelques aspects de la dernière traduction française de Huckleberry Finn"
-    ],
-    "authFullName_s": [
-      "Corinne Wecksteen-Quinio"
-    ],
-    "labStructAcronym_s": [
-      "TEXTES ET CULTURES"
-    ],
-    "labStructAddress_s": [
-      "Université d'Artois Maison de la Recherche 9, rue du Temple - BP 10665 62030 ARRAS CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-artois.hal.science/hal-03296001v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2009,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643994",
-    "docid": "2015868",
-    "title_s": [
-      "Les territoires face à la fermeture des services publics : mutations dans un contexte d'austérité"
-    ],
-    "authFullName_s": [
-      "Quentin Godoye"
-    ],
-    "labStructAcronym_s": [
-      "ESPACE"
-    ],
-    "labStructAddress_s": [
-      "Case 41 74 rue Louis Pasteur 84029 Avignon Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02015868v1",
-    "city_s": "Grenoble",
-    "producedDateY_i": 2019,
-    "latitude": "45.182206145",
-    "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e733764399b",
-    "docid": "2809842",
-    "title_s": [
-      "Étude du rôle des P-glycoprotéines au cours du dialogue moléculaire entre le nématode parasite et son hôte"
-    ],
-    "authFullName_s": [
-      "Mohamed Issouf"
-    ],
-    "labStructAcronym_s": [
-      "UMR ISP"
-    ],
-    "labStructAddress_s": [
-      "INRA 37380 Nouzilly"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02809842v1",
-    "city_s": "Tours",
-    "producedDateY_i": 2013,
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e733764399f",
-    "docid": "3453258",
-    "title_s": [
-      "Vulnérabilités, transmission des compétences en appui sur les activités informelles et développement soutenable"
-    ],
-    "authFullName_s": [
-      "Alain Nicolas",
-      "Katia Radja",
-      "Patrick Schembri"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "C3ED"
-    ],
-    "labStructAddress_s": [
-      "Université de VSQY-SSH - 47 boulevard Vauban - 78047 Guyancourt Cedex"
-    ],
-    "uri_s": "https://hal.uvsq.fr/hal-03453258v1",
-    "city_s": "Strasbourg",
-    "producedDateY_i": 2010,
-    "latitude": "48.571265",
-    "longitude": "7.767760376"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439ab",
-    "docid": "4571272",
-    "title_s": [
-      "Émergence de la maladie hémorragique épizootique en Europe"
-    ],
-    "authFullName_s": [
-      "Stéphan Zientara",
-      "Emmanuel Bréard",
-      "Lydie Postic",
-      "Mathilde Turpaud",
-      "Grégory Caignard",
-      "Damien Vitour",
-      "Corinne Sailleau"
-    ],
-    "labStructAcronym_s": [
-      "VIRO"
-    ],
-    "labStructAddress_s": [
-      "7 avenue du Général de Gaulle 94704 MAISONS-ALFORT CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://anses.hal.science/anses-04571272v1",
-    "city_s": "Maisons Alfort",
-    "producedDateY_i": 2023,
-    "latitude": "48.806206275",
-    "longitude": "2.438053127"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439ad",
-    "docid": "2016426",
-    "title_s": [
-      "Characterization of a 63 MeV Proton Beam with Optically Stimulated Luminescent Films"
-    ],
-    "authFullName_s": [
-      "G. Polge",
-      "L. Dusseau",
-      "D. Plattard",
-      "J. Fesquet",
-      "J. Gasiot",
-      "N. Iborra-Brassard"
-    ],
-    "labStructAcronym_s": [
-      "CEM2"
-    ],
-    "labStructAddress_s": [
-      "CC 084 - Place Eugène Bataillon - 34095 MONTPELLIER CEDEX 5"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02016426v1",
-    "city_s": "Grenoble",
-    "producedDateY_i": 2001,
-    "latitude": "45.182206145",
-    "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439af",
-    "docid": "4335178",
-    "title_s": [
-      "Movere gli affetti. Descartes, Monteverdi et Artusi"
-    ],
-    "authFullName_s": [
-      "Pierre-Henry Frangne"
-    ],
-    "labStructAcronym_s": [
-      "HCA - EA 1279"
-    ],
-    "labStructAddress_s": [
-      "Université Rennes 2 - UFR Arts, Lettres et Communication - Place du Recteur Henri Le Moal. 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04335178v1",
-    "city_s": "Pau",
-    "producedDateY_i": 2008,
-    "latitude": "43.320042775",
-    "longitude": "-0.350142637"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439b0",
-    "docid": "1372328",
-    "title_s": [
-      "Nuclear thermodynamics with isospin degree of freedom: From first results to future possibilities with A and Z identification arrays"
-    ],
-    "authFullName_s": [
-      "B. Borderie"
-    ],
-    "labStructAcronym_s": [
-      "IPNO"
-    ],
-    "labStructAddress_s": [
-      "IPN - 15, rue Georges Clemenceau - 91406 ORSAY CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-01372328v1",
-    "city_s": "Caen",
-    "producedDateY_i": 2016,
-    "latitude": "49.184977638",
-    "longitude": "-0.369888818"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439b7",
-    "docid": "4335229",
-    "title_s": [
-      "Réduction des pertes de zinc en galvanisation grâce aux revêtements zincophobes, Communication dans un congrès sans actes"
-    ],
-    "authFullName_s": [
-      "Aleksandra Cieplak",
-      "David Balloy",
-      "Ingrid Proriol Serre"
-    ],
-    "labStructAcronym_s": [
-      "UMET"
-    ],
-    "labStructAddress_s": [
-      "Université Lille 1 Bâtiment C6 59655 Villeneuve d'Ascq"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-lille.fr/hal-04335229v1",
-    "city_s": "Lille",
-    "producedDateY_i": 2022,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439b8",
-    "docid": "3774511",
-    "title_s": [
-      "Du « touche-à-tout » au « polyvalent » : se nommer et être nommé au cours de la carrière des athlètes pluridisciplinaires"
-    ],
-    "authFullName_s": [
-      "Mathilde Julla-Marcy"
-    ],
-    "labStructAcronym_s": [
-      "CENS",
-      "ISP"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Nouveau TertreChemin de la Censive du Tertre44312 NANTES Cedex 3",
-      "Bâtiment Max Weber, 200 Avenue de la République 92001 NANTERRE CEDEX - Ecole Normale Supérieure Paris-Saclay, Bâtiment Ouest - 3e étage, 4 avenue des Sciences, 91190 Gif-sur-Yvette"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://nantes-universite.hal.science/hal-03774502v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2022,
-    "fileMain_s": "https://nantes-universite.hal.science/hal-03774502/document",
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439c3",
-    "docid": "2738867",
-    "title_s": [
-      "Identification of mutations in the <em>ram</em> locus of fluoroquinolones resistant <em>Salmonella enterica</em> serogroup Choleraesuis isolates"
-    ],
-    "authFullName_s": [
-      "Sylvie Baucheron",
-      "Cheng-Hsun Chiu",
-      "Chishih Chu",
-      "Axel Cloeckaert"
-    ],
-    "labStructAcronym_s": [
-      "UMR ISP"
-    ],
-    "labStructAddress_s": [
-      "INRA 37380 Nouzilly"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "tw",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02738867v1",
-    "city_s": "Tours",
-    "page_s": "154 p.",
-    "producedDateY_i": 2015,
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439c5",
-    "docid": "2738903",
-    "title_s": [
-      "Characterization of the Lmb proteins of <em>Streptococcus agalactiae</em>"
-    ],
-    "authFullName_s": [
-      "Pauline Moulin"
-    ],
-    "labStructAcronym_s": [
-      "UMR ISP"
-    ],
-    "labStructAddress_s": [
-      "INRA 37380 Nouzilly"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02738903v1",
-    "city_s": "Nouzilly",
-    "producedDateY_i": 2015,
-    "latitude": "47.537120176",
-    "longitude": "0.740754095"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439c6",
-    "docid": "2810391",
-    "title_s": [
-      "Consommation de produits biologiques : motivation altruiste ou égoïste ?"
-    ],
-    "authFullName_s": [
-      "Sylvette Monier-Dilhan",
-      "Fabian Berges"
-    ],
-    "labStructAcronym_s": [
-      "US ODR"
-    ],
-    "labStructAddress_s": [
-      "Auzeville"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02810391v1",
-    "city_s": "Toulouse",
-    "page_s": "np.",
-    "producedDateY_i": 2012,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439c7",
-    "docid": "730664",
-    "title_s": [
-      "Tmd-Miner : Une nouvelle approche pour la détection des diffuseurs dans un système communautaire"
-    ],
-    "authFullName_s": [
-      "Nidhal Jelassi",
-      "Christine Largeron",
-      "Sadok Ben Yahia"
-    ],
-    "labStructAcronym_s": [
-      "LabHC"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment F 18 Rue du Professeur Benoît Lauras42000 Saint-Etienne"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "tn",
-      "tn"
-    ],
-    "uri_s": "https://ujm.hal.science/ujm-00730664v1",
-    "city_s": "Bordeaux",
-    "page_s": "423-428",
-    "publisher_s": [
-      "Hermann"
-    ],
-    "producedDateY_i": 2012,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439c9",
-    "docid": "1214687",
-    "title_s": [
-      "A Novel Global MPPT Algorithm for distributed MPPT Systems"
-    ],
-    "authFullName_s": [
-      "Stephan Daraban",
-      "Dorin Petreus",
-      "Cristina Morel",
-      "M. Machmoum"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAddress_s": [
-      "10 boulevard JeanneteauCS 9071749107 Angers cedex 2",
-      "Campus de Beaulieu Bâtiment 11D263 Av.Général Leclerc-CS 74205 35042 Rennes Cedex"
-    ],
-    "labStructAcronym_s": [
-      "IETR"
-    ],
-    "uri_s": "https://hal.science/hal-01214687v1",
-    "city_s": "Lille",
-    "producedDateY_i": 2013,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439ca",
-    "docid": "3611401",
-    "title_s": [
-      "Création et évaluation d'un outil informatique d'aide à la supervision et à la rédaction de traces d'apprentissage en stage ambulatoire de médecine générale"
-    ],
-    "authFullName_s": [
-      "Zélia Bouchez",
-      "David Darmon",
-      "Jérôme Bernard"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "RETINES"
-    ],
-    "uri_s": "https://hal.science/hal-03611401v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2021,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439cc",
-    "docid": "1773632",
-    "title_s": [
-      "Générateur thermoélectrique flexible imprimé sur papier à base de matériaux organiques et hybrides"
-    ],
-    "authFullName_s": [
-      "Salim Ferhat",
-      "Christophe Domain",
-      "Julien Vidal",
-      "Didier Noël",
-      "Bernard Ratier",
-      "Bruno Lucas"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "XLIM",
-      "EDF R&D MMC"
-    ],
-    "labStructAddress_s": [
-      "123 Avenue Albert THOMAS 87060 LIMOGES CEDEX"
-    ],
-    "uri_s": "https://unilim.hal.science/hal-01773632v1",
-    "city_s": "Limoges",
-    "producedDateY_i": 2017,
-    "latitude": "45.854408855",
-    "longitude": "1.248829946"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439cd",
-    "docid": "812268",
-    "title_s": [
-      "Simulation-Driven Approach for Business Rules Discovery"
-    ],
-    "authFullName_s": [
-      "Biljana Bajic",
-      "Irina Rychkova",
-      "Alain Wegmann"
-    ],
-    "structCountry_s": [
-      "ch",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "CRI"
-    ],
-    "labStructAddress_s": [
-      "Université Paris 1 Panthéon-Sorbonne 90 rue de Tolbiac 75013 Paris Pays FR"
-    ],
-    "uri_s": "https://paris1.hal.science/hal-00812268v1",
-    "city_s": "Valence",
-    "producedDateY_i": 2013,
-    "latitude": "44.922561335",
-    "longitude": "4.913645994"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439d1",
-    "docid": "4415176",
-    "title_s": [
-      "Les représentations médiatiques du génocide des Tutsi du Rwanda"
-    ],
-    "authFullName_s": [
-      "François Robinet"
-    ],
-    "labStructAcronym_s": [
-      "CHCSC"
-    ],
-    "labStructAddress_s": [
-      "Université de Versailles Saint-Quentin-en-Yvelines47, Boulevard Vauban78047 Guyancourt Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04415176v1",
-    "city_s": "Guyancourt",
-    "producedDateY_i": 2018,
-    "latitude": "48.773058155",
-    "longitude": "2.075795692"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439d2",
-    "docid": "1128952",
-    "title_s": [
-      "Que cherche-t-on et que trouve-t-on dans les forums de discussion médicaux ?"
-    ],
-    "authFullName_s": [
-      "Ghislaine Rolland-Lozachmeur"
-    ],
-    "labStructAcronym_s": [
-      "HCTI"
-    ],
-    "labStructAddress_s": [
-      "20 rue Duquesne 29238 Brest Cedex 03"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-brest.fr/hal-01128952v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439da",
-    "docid": "1773478",
-    "title_s": [
-      "Brévitude\" et \"britannitude\" : la traduction des clichés de l'anglais au français",
-      "Brevity and Britishness : Translating Clichés from English to French"
-    ],
-    "authFullName_s": [
-      "Frédérique Brisset"
-    ],
-    "labStructAcronym_s": [
-      "CECILLE"
-    ],
-    "labStructAddress_s": [
-      "Université de Lille - Domaine universitaire Pont de Bois - Bât B, niv 1,BP 60149 - 59653 Villeneuve d'Ascq Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-lille.fr/hal-01773478v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2018,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439e3",
-    "docid": "9827",
-    "title_s": [
-      "Study of collective flow in heavy ion collisions"
-    ],
-    "authFullName_s": [
-      "G. Bizard",
-      "J. Peter",
-      "W.Q. Shen",
-      "J.P. Sullivan",
-      "R. Brou",
-      "D. Cussol",
-      "M. Louvel",
-      "J.P. Patry",
-      "R. Régimbart",
-      "J.C. Steckmeyer",
-      "B. Tamain",
-      "E. Crema",
-      "H. Doubre",
-      "K. Hagel",
-      "G.M. Jin",
-      "A. Peghaire",
-      "F. Saint-Laurent",
-      "Y. Cassagnou",
-      "R. Legrain",
-      "C. Lebrun",
-      "E. Rosato",
-      "R. Macgrath",
-      "S.C. Jeong",
-      "S.M. Lee",
-      "Y. Nagashima",
-      "T. Nakagawa",
-      "M. Ogihara",
-      "J. Kasagi",
-      "T. Motobayashi"
-    ],
-    "labStructAcronym_s": [
-      "LPCC"
-    ],
-    "labStructAddress_s": [
-      "ENSICAEN - 6, boulevard du Marechal Juin 14050 Caen Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00006219v1",
-    "city_s": "Tours",
-    "page_s": "204-213",
-    "publisher_s": [
-      "World Scientific"
-    ],
-    "producedDateY_i": 1991,
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439f9",
-    "docid": "2893010",
-    "title_s": [
-      "3D muography with a gaseous TPC equipped with 2D multiplexed Micromegas"
-    ],
-    "authFullName_s": [
-      "H. Gómez",
-      "D. Attié",
-      "D. Calvet",
-      "X. Coppolani",
-      "B. Gallois",
-      "M. Kebbiri",
-      "M. Lehuraux",
-      "P. Magnier",
-      "I. Mandjavidze",
-      "S. Procureur",
-      "M. Vandenbroucke"
-    ],
-    "labStructAcronym_s": [
-      "IRFU"
-    ],
-    "labStructAddress_s": [
-      "CEA SaclayF-91191 Gif sur Yvette cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02893010v1",
-    "city_s": "La Rochelle",
-    "page_s": "012047",
-    "producedDateY_i": 2019,
-    "latitude": "47.751840681",
-    "longitude": "5.725168629"
-  },
-  {
-    "_id": "67e2b5e33f596e73376439ff",
-    "docid": "3775380",
-    "title_s": [
-      "(dir.) Paroles et écrits du territoire sacré"
-    ],
-    "authFullName_s": [
-      "Françoise Louise Le Ny Vray",
-      "Michel Chossenot"
-    ],
-    "labStructAcronym_s": [
-      "GEGENAA"
-    ],
-    "labStructAddress_s": [
-      "Centre de Recherche en Environnement et Agronomie (CREA) - 2 esplanade Roland Garros - 51100 Reims"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03775380v1",
-    "city_s": "Reims",
-    "producedDateY_i": 2003,
-    "latitude": "49.251726201",
-    "longitude": "4.040155708"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a04",
-    "docid": "1536139",
-    "title_s": [
-      "Two approaches for ontologies buildings: from scratch and from existing data sources"
-    ],
-    "authFullName_s": [
-      "Djamal Benslimane",
-      "Ahmed Arara",
-      "Kokou Yetongnon",
-      "Faiez Gargouri",
-      "Hanene Ben Abdellah"
-    ],
-    "labStructAcronym_s": [
-      "LIRIS"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Blaise Pascal - 20, avenue Albert Einstein - 69621 Villeurbanne cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01536139v1",
-    "city_s": "Montreal",
-    "page_s": "00",
-    "producedDateY_i": 2003,
-    "latitude": "44.518242755",
-    "longitude": "4.294294724"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a05",
-    "docid": "4415848",
-    "title_s": [
-      "Photoactive Polyoxometalate-based systems"
-    ],
-    "authFullName_s": [
-      "Olivier Oms"
-    ],
-    "labStructAcronym_s": [
-      "ILV"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Lavoisier 45 avenue des Etats Unis 78035 VERSAILLES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04415848v1",
-    "city_s": "NANTES",
-    "producedDateY_i": 2023,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a07",
-    "docid": "4335733",
-    "title_s": [
-      "Mallarmé et le dispositif des arts"
-    ],
-    "authFullName_s": [
-      "Pierre-Henry Frangne"
-    ],
-    "labStructAcronym_s": [
-      "HCA - EA 1279"
-    ],
-    "labStructAddress_s": [
-      "Université Rennes 2 - UFR Arts, Lettres et Communication - Place du Recteur Henri Le Moal. 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04335733v1",
-    "city_s": "Metz",
-    "producedDateY_i": 2011,
-    "latitude": "49.10819284",
-    "longitude": "6.195988106"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a0a",
-    "docid": "337369",
-    "title_s": [
-      "Analyse de forums dans la formation à distance\"."
-    ],
-    "authFullName_s": [
-      "Mohamed Sidir"
-    ],
-    "labStructAcronym_s": [
-      "CURAPP-ESS"
-    ],
-    "labStructAddress_s": [
-      "POLE UNIVERSITAIRE CATHEDRALE Placette Lafleur - BP 2716 80027 AMIENS CEDEX 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00337369v1",
-    "city_s": "Fribourg",
-    "producedDateY_i": 2006,
-    "latitude": "48.769931862",
-    "longitude": "6.8717474450000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a0d",
-    "docid": "1535997",
-    "title_s": [
-      "Morphométrie des espaces urbains et expression d'un ressenti d'agrément : approche de la notion de bien-être par la quantification informationnelle du bassin de visibilité du piéton"
-    ],
-    "authFullName_s": [
-      "Philippe Woloszyn",
-      "Thomas Leduc",
-      "Frédéric Luckel"
-    ],
-    "labStructAcronym_s": [
-      "ESO",
-      "AAU",
-      "AMUP"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAddress_s": [
-      "Équipe CERMAENSA Nantes6 Quai François MitterrandBP 1620244262 Nantes CEDEX 2Équipe CRESSONENSA Grenoble60 Avenue de ConstantineCS 1263638036 Grenoble CEDEX 2",
-      "6-8 boulevard Wilson - BP10037 - 67068 Strasbourg Cedex"
-    ],
-    "uri_s": "https://hal.science/hal-01535997v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2014,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a0e",
-    "docid": "337366",
-    "title_s": [
-      "L'investissement selon le droit financier public (budgétaire et comptable)."
-    ],
-    "authFullName_s": [
-      "Joël Mekhantar"
-    ],
-    "labStructAcronym_s": [
-      "CURAPP-ESS"
-    ],
-    "labStructAddress_s": [
-      "POLE UNIVERSITAIRE CATHEDRALE Placette Lafleur - BP 2716 80027 AMIENS CEDEX 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00337366v1",
-    "city_s": "Reims",
-    "producedDateY_i": 2005,
-    "latitude": "49.251726201",
-    "longitude": "4.040155708"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a18",
-    "docid": "3774871",
-    "title_s": [
-      "Anomalies detection method for non-determinist SDN control"
-    ],
-    "authFullName_s": [
-      "Loïc Desgeorges",
-      "Jean-Philippe Georges",
-      "Thierry Divoux"
-    ],
-    "labStructAcronym_s": [
-      "CRAN"
-    ],
-    "labStructAddress_s": [
-      "Université de Lorraine, Campus Sciences, BP 70239, 54506 Vandoeuvre-les-Nancy Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03774871v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2022,
-    "fileMain_s": "https://hal.science/hal-03774871/document",
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a19",
-    "docid": "1066653",
-    "title_s": [
-      "Les données à caractère personnel transférées aux Etats tiers: l'évolution de la protection par l'Union européenne"
-    ],
-    "authFullName_s": [
-      "Carole Billet"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "IODE"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Droit et de Science Politique -  9 Rue Jean Mace 35042 RENNES CEDEX"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-01066653v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2014,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a1f",
-    "docid": "812400",
-    "title_s": [
-      "Video Action Classification: A New Approach combining Spatio-temporal Krawtchouk Moments and Laplacian Eigenmaps"
-    ],
-    "authFullName_s": [
-      "Imen Lassoued",
-      "Ezzeddine Zagrouba",
-      "Youssef Chahir"
-    ],
-    "labStructAcronym_s": [
-      "RIADI",
-      "GREYC"
-    ],
-    "labStructAddress_s": [
-      "École Nationale des Sciences de l'Informatique (ENSI), Campus Universitaire de la Manouba, 2010 Manouba, Tunisia",
-      "Boulevard du Maréchal Juin - 14050 CAEN Cedex"
-    ],
-    "structCountry_s": [
-      "tn",
-      "tn",
-      "tn",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00812400v1",
-    "city_s": "Dijon",
-    "page_s": "291 -297",
-    "producedDateY_i": 2011,
-    "latitude": "47.322850621",
-    "longitude": "5.037471304"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a29",
-    "docid": "2739110",
-    "title_s": [
-      "Cartographie des dosages plasmatiques d'oligo-éléments chez les bovins : bilan à partir de 6620 analyses"
-    ],
-    "authFullName_s": [
-      "Damien Trumeau",
-      "Jean Lecourt",
-      "Ruud de Gelas",
-      "Philippe Nicollet",
-      "Lionel Lumet",
-      "Philippe Liège",
-      "Raphaël R. Guatteo"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "BIOEPAR"
-    ],
-    "labStructAddress_s": [
-      "ONIRIS : Site de la Chantrerie CS 40706 44307 Nantes cedex 3 Site de la Géraudière CS 82225 44322 Nantes cedex 3"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02739110v1",
-    "city_s": "Reims",
-    "page_s": "1010 p.",
-    "publisher_s": [
-      "SNGTV - Société Nationale des Groupements Techniques Vétérinaires"
-    ],
-    "producedDateY_i": 2014,
-    "latitude": "49.251726201",
-    "longitude": "4.040155708"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a30",
-    "docid": "2492131",
-    "title_s": [
-      "Le bien-être des enfants avec autisme"
-    ],
-    "authFullName_s": [
-      "Cendrine Mercier"
-    ],
-    "labStructAcronym_s": [
-      "CREN"
-    ],
-    "labStructAddress_s": [
-      "Chemin de la Censive du Tertre BP 81227 44312 Nantes cedex 3"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02492131v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2019,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a34",
-    "docid": "2810794",
-    "title_s": [
-      "Quelle molécule pour quelle couleur ?"
-    ],
-    "authFullName_s": [
-      ". Equipe Qualité Et Procédés",
-      "Salima Kherchache"
-    ],
-    "labStructAcronym_s": [
-      "SQPOV",
-      "SDAR Paca"
-    ],
-    "labStructAddress_s": [
-      "Domaine Saint Paul Site Agroparc 84914 Avignon cedex 9",
-      "INRAE Domaine Saint-Paul - Site Agroparc 228 route de l'Aérodrome CS40509 84914 AVIGNON CEDEX 9"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02810794v1",
-    "city_s": "Avignon",
-    "producedDateY_i": 2011,
-    "latitude": "43.935441391",
-    "longitude": "4.841098248"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a39",
-    "docid": "2927693",
-    "title_s": [
-      "Les ressorts de la socialisation genrée dans la formation en soins infirmiers"
-    ],
-    "authFullName_s": [
-      "Alice Lermusiaux"
-    ],
-    "labStructAcronym_s": [
-      "CENS"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Nouveau TertreChemin de la Censive du Tertre44312 NANTES Cedex 3"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02927693v1",
-    "city_s": "Poitiers",
-    "producedDateY_i": 2019,
-    "latitude": "46.583644875",
-    "longitude": "0.359570095"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a3b",
-    "docid": "757598",
-    "title_s": [
-      "Organic phototransistor based on a flexible plastic substrate"
-    ],
-    "authFullName_s": [
-      "Aumeur El Amrani",
-      "Bruno Lucas",
-      "Bernard Ratier",
-      "André Moliton"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "XLIM"
-    ],
-    "labStructAddress_s": [
-      "123 Avenue Albert THOMAS 87060 LIMOGES CEDEX"
-    ],
-    "uri_s": "https://hal.science/hal-00757598v1",
-    "city_s": "Angers",
-    "page_s": "Inconnu",
-    "producedDateY_i": 2007,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a41",
-    "docid": "3254913",
-    "title_s": [
-      "Impact de la solidarité internationale sur la citoyenneté"
-    ],
-    "authFullName_s": [
-      "Chadia Arab"
-    ],
-    "labStructAcronym_s": [
-      "ESO"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-angers.hal.science/hal-03254913v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2010,
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a47",
-    "docid": "3175152",
-    "title_s": [
-      "Mémoire du futur"
-    ],
-    "authFullName_s": [
-      "Franck Renucci"
-    ],
-    "labStructAcronym_s": [
-      "IMSIC"
-    ],
-    "labStructAddress_s": [
-      "21, rue Virgile Marron13392 Marseille Cedex 05"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03175152v1",
-    "city_s": "Toulon",
-    "producedDateY_i": 2020,
-    "latitude": "43.136537115",
-    "longitude": "5.93259923"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a48",
-    "docid": "380343",
-    "title_s": [
-      "Region-of-interest tracking based on keypoint trajectories on a group of pictures"
-    ],
-    "authFullName_s": [
-      "Vincent Garcia",
-      "Eric Debreuve",
-      "Michel Barlaud"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "I3S"
-    ],
-    "labStructAddress_s": [
-      "2000, route des Lucioles - Les Algorithmes - bât. Euclide B 06900 Sophia Antipolis"
-    ],
-    "uri_s": "https://hal.science/hal-00380343v1",
-    "city_s": "Bordeaux",
-    "page_s": "198 - 203",
-    "producedDateY_i": 2007,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a4d",
-    "docid": "3641559",
-    "title_s": [
-      "Marqueurs du français régional dans l’écrit"
-    ],
-    "authFullName_s": [
-      "Jean-Claude Bouvier"
-    ],
-    "labStructAcronym_s": [
-      "TELEMME"
-    ],
-    "labStructAddress_s": [
-      "MMSH 5 Rue du château de l'Horloge - BP 647 13094 AIX EN PROVENCE CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://amu.hal.science/hal-03641559v1",
-    "city_s": "Mulhouse",
-    "publisher_s": [
-      "Université de Haute-Alsace"
-    ],
-    "producedDateY_i": 1993,
-    "latitude": "47.748996149",
-    "longitude": "7.325470995"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a4e",
-    "docid": "3088363",
-    "title_s": [
-      "L’accès aux données administratives de l’enseignement secondaire et supérieur"
-    ],
-    "authFullName_s": [
-      "Leïla Frouillou"
-    ],
-    "labStructAcronym_s": [
-      "CRESPPA"
-    ],
-    "labStructAddress_s": [
-      "Centre de recherches sociologiques et politiques de Paris - CRESPPA (UMR7217) - 59-61 rue Pouchet - 75889 Paris cedex 17"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-03088363v1",
-    "city_s": "Nanterre",
-    "producedDateY_i": 2020,
-    "latitude": "48.896168757",
-    "longitude": "2.207090178"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a56",
-    "docid": "594338",
-    "title_s": [
-      "Stickers 25JAN: collection des autocollants de la révolution du 25 janvier 2011 en Égypte"
-    ],
-    "authFullName_s": [
-      "Vincent Battesti"
-    ],
-    "labStructAcronym_s": [
-      "EAE"
-    ],
-    "labStructAddress_s": [
-      "Dpt Hommes Natures Sociétés, 57 rue Cuvier 75231 Paris Cedex 05 - Musée de l'Homme, place du Trocadéro 75016 Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://media.hal.science/medihal-00594338v1",
-    "city_s": "Le Caire",
-    "producedDateY_i": 2011,
-    "fileMain_s": "https://media.hal.science/medihal-00594338/document",
-    "latitude": "44.37433891",
-    "longitude": "6.06896198"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a57",
-    "docid": "3254908",
-    "title_s": [
-      "La touristicité des espaces en Chine pour les touristes intérieurs"
-    ],
-    "authFullName_s": [
-      "Benjamin Taunay"
-    ],
-    "labStructAcronym_s": [
-      "ESO"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-angers.hal.science/hal-03254908v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2011,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a5a",
-    "docid": "4291525",
-    "title_s": [
-      "Enroulement amortisseur pour la réduction des bruits et vibrations des machines asynchrones"
-    ],
-    "authFullName_s": [
-      "Grégory Bauw",
-      "Cassoret Bertrand",
-      "Olivier Ninet",
-      "Raphael Romary"
-    ],
-    "labStructAcronym_s": [
-      "LSEE"
-    ],
-    "labStructAddress_s": [
-      "Faculté des Sciences Appliquées Technoparc Futura 62400 Béthune"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-artois.hal.science/hal-04290278v1",
-    "city_s": "Arras",
-    "producedDateY_i": 2017,
-    "fileMain_s": "https://univ-artois.hal.science/hal-04290278/document",
-    "latitude": "50.290017375",
-    "longitude": "2.766050504"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a66",
-    "docid": "380629",
-    "title_s": [
-      "Le projet \"Médiathèque prévention des risques\" de l'université de Poitiers"
-    ],
-    "authFullName_s": [
-      "P. Lagonotte",
-      "P. Brissonnet",
-      "S. de Beauregard"
-    ],
-    "labStructAcronym_s": [
-      "LET"
-    ],
-    "labStructAddress_s": [
-      "Boulevard Pierre et Marie Curie - BP 30179 86962 FUTUROSCOPE CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00380629v1",
-    "city_s": "Bordeaux",
-    "page_s": "ARTICLE COMPLET N° 103 MEDIATHEQUE FINAL.PDF DANS LE CD ROM DE LA CONFERENCE",
-    "producedDateY_i": 2007,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a67",
-    "docid": "2785847",
-    "title_s": [
-      "Les systèmes sectoriels de l'innovation environnementale"
-    ],
-    "authFullName_s": [
-      "Danielle Galliano",
-      "Simon Nadel"
-    ],
-    "labStructAcronym_s": [
-      "AGIR",
-      "CLERSÉ"
-    ],
-    "labStructAddress_s": [
-      "Centre de Recherches INRA de Toulouse Chemin de Borderouge 31326 CASTANET TOLOSAN",
-      "Université de Lille - Sciences et technologies - Bâtiment SH2 - 59655 Villeneuve d’Ascq Cedex -"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785847v1",
-    "city_s": "POITIERS",
-    "page_s": "23 p.",
-    "producedDateY_i": 2017,
-    "fileMain_s": "https://hal.inrae.fr/hal-02785847/document",
-    "latitude": "46.583644875",
-    "longitude": "0.359570095"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a6e",
-    "docid": "2785930",
-    "title_s": [
-      "Effets de l’Homme sur la biodiversité des écosystèmes terrestres des îles subantarctiques"
-    ],
-    "authFullName_s": [
-      "Isabelle Badenhausser"
-    ],
-    "labStructAcronym_s": [
-      "CEBC"
-    ],
-    "labStructAddress_s": [
-      "405 Route de Prissé la Charrière, 79360 Villiers-en-Bois"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785930v1",
-    "city_s": "Bougon",
-    "page_s": "179 diapos",
-    "producedDateY_i": 2018,
-    "fileMain_s": "https://hal.inrae.fr/hal-02785930/document",
-    "latitude": "46.368296979",
-    "longitude": "-0.05832186"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a6f",
-    "docid": "3000506",
-    "title_s": [
-      "Le renouveau gothique au XVIIIe siècle : reconstruction ou contre-culture ?"
-    ],
-    "authFullName_s": [
-      "Elizabeth Durot-Boucé"
-    ],
-    "labStructAcronym_s": [
-      "GRIC"
-    ],
-    "labStructAddress_s": [
-      "25 rue Philippe Lebon- BP 1123- 76063 Le Havre Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://normandie-univ.hal.science/hal-03000506v1",
-    "city_s": "Reims",
-    "producedDateY_i": 2017,
-    "latitude": "49.251726201",
-    "longitude": "4.040155708"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a71",
-    "docid": "36936",
-    "title_s": [
-      "Introductory talk on chiral fluctuations in hadronic matter"
-    ],
-    "authFullName_s": [
-      "G. Chanfray"
-    ],
-    "labStructAcronym_s": [
-      "IPNL"
-    ],
-    "labStructAddress_s": [
-      "Campus LyonTech-la DouaBâtiment Paul DIRAC4 Rue Enrico Fermi69622 Villeurbanne Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00024693v1",
-    "city_s": "Orsay",
-    "producedDateY_i": 2001,
-    "latitude": "48.700274052",
-    "longitude": "2.187378773"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a73",
-    "docid": "287589",
-    "title_s": [
-      "BiPo prototype measurements for SuperNEMO"
-    ],
-    "authFullName_s": [
-      "M. Bongrand"
-    ],
-    "labStructAcronym_s": [
-      "LAL"
-    ],
-    "labStructAddress_s": [
-      "Centre Scientifique d'Orsay B.P. 34 91898 ORSAY Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00287589v1",
-    "city_s": "La Thuile",
-    "page_s": "519-522",
-    "publisher_s": [
-      "The GIOI publishers"
-    ],
-    "producedDateY_i": 2008,
-    "fileMain_s": "https://in2p3.hal.science/in2p3-00287589/document",
-    "latitude": "45.54052079",
-    "longitude": "6.055602281"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a79",
-    "docid": "4456361",
-    "title_s": [
-      "Composite thermiquement actif appliqué à la modification de forme de profil aérodynamique"
-    ],
-    "authFullName_s": [
-      "Gildas L'Hostis",
-      "Axel Imbert",
-      "Hervé Drobez",
-      "Bernard Durand",
-      "Fabrice Laurent",
-      "B Martinez"
-    ],
-    "labStructAcronym_s": [
-      "LPMT"
-    ],
-    "labStructAddress_s": [
-      "ENSISA – Bâtiment Werner - 11 rue Alfred Werner - 68 093 MULHOUSE Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04456361v1",
-    "city_s": "Balma",
-    "producedDateY_i": 2011,
-    "latitude": "43.611071117",
-    "longitude": "1.504681785"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a7c",
-    "docid": "842003",
-    "title_s": [
-      "La mise en oeuvre de la stratégie des groupes par l'espace : la spatialisation du réseau structuré"
-    ],
-    "authFullName_s": [
-      "Thierry Serboff"
-    ],
-    "labStructAcronym_s": [
-      "COACTIS"
-    ],
-    "labStructAddress_s": [
-      "Université Lyon 2 MH14 avenue Berthelot69365 LYON CEDEX 07"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00842003v1",
-    "city_s": "Mons",
-    "producedDateY_i": 2013,
-    "fileMain_s": "https://shs.hal.science/halshs-00842003/document",
-    "latitude": "46.000564973",
-    "longitude": "3.422456164"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a80",
-    "docid": "2523573",
-    "title_s": [
-      "« Essayer une danse de textes et de gestes »"
-    ],
-    "authFullName_s": [
-      "Evelyne Clavier"
-    ],
-    "labStructAcronym_s": [
-      "TELEM"
-    ],
-    "labStructAddress_s": [
-      "Université Michel de Montaigne Domaine universitaire 33607 Pessac cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02523573v1",
-    "city_s": "Cerisy",
-    "producedDateY_i": 2016,
-    "latitude": "49.896256894",
-    "longitude": "2.62238339"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a82",
-    "docid": "3254936",
-    "title_s": [
-      "Le paysage culturel : une nouvelle image emblématique du Pays Dogon, site du patrimoine mondial au Mali"
-    ],
-    "authFullName_s": [
-      "Mustapha El Hannani"
-    ],
-    "labStructAcronym_s": [
-      "ESO"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-angers.hal.science/hal-03254936v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2010,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a86",
-    "docid": "3816370",
-    "title_s": [
-      "Aerodynamic and acoustic measurements of a Tip Leakage Flow"
-    ],
-    "authFullName_s": [
-      "Julien Grilliat",
-      "Emmanuel Jondeau",
-      "Marc Jacob"
-    ],
-    "labStructAcronym_s": [
-      "LMFA"
-    ],
-    "labStructAddress_s": [
-      "36 Av Guy de Collongue 69134 ECULLY CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03816370v1",
-    "city_s": "Ecully",
-    "producedDateY_i": 2007,
-    "latitude": "45.781880399",
-    "longitude": "4.772636694"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a87",
-    "docid": "757886",
-    "title_s": [
-      "Fast calibration of hand movement-based interface for arm exoskeleton control"
-    ],
-    "authFullName_s": [
-      "Hugo Martin",
-      "Sylvain Chevallier",
-      "Eric Monacelli"
-    ],
-    "labStructAcronym_s": [
-      "LISV"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment BoucherPôle scientifique et technologique de Vélizy10-12 avenue de l'Europe78140 VélizyTél. : 01 39 25 49 65"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00757886v1",
-    "city_s": "Bruges",
-    "page_s": "573-578",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00757886/document",
-    "latitude": "44.88881954",
-    "longitude": "-0.600222459"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a89",
-    "docid": "2372082",
-    "title_s": [
-      "Caractérisation du transport des espèces neutres et ionisées en procédé R-HiPIMS et corrélation avec les propriétés des dépôts de type TiN"
-    ],
-    "authFullName_s": [
-      "A. El Farsy",
-      "D. Boivin",
-      "A. Najah",
-      "S. Cuynet",
-      "C. Noël",
-      "R. Hugon",
-      "J. Bougdira",
-      "L. De Poucques"
-    ],
-    "labStructAcronym_s": [
-      "IJL"
-    ],
-    "labStructAddress_s": [
-      "Institut Jean Lamour - CNRS - Université de Lorraine. Campus Artem 2 allée André Guinier BP 50840 54011 Nancy Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02372082v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2019,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a8c",
-    "docid": "1500690",
-    "title_s": [
-      "Le paysage, un outil pour orienter les projets de territoire ?"
-    ],
-    "authFullName_s": [
-      "Laurent Lelli"
-    ],
-    "labStructAcronym_s": [
-      "UMR METAFORT"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://agroparistech.hal.science/hal-01500690v1",
-    "city_s": "Montauban",
-    "producedDateY_i": 2005,
-    "latitude": "44.022262753",
-    "longitude": "1.364081417"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a8d",
-    "docid": "3175286",
-    "title_s": [
-      "Images des pratiques scientifiques d’étudiants entrant en première année d’études scientifiques à l’université Paris-Sud."
-    ],
-    "authFullName_s": [
-      "Laurence Maurines",
-      "Magali Fuchs-Gallezot",
-      "Marie-Joëlle Ramage"
-    ],
-    "labStructAcronym_s": [
-      "EST",
-      "EST"
-    ],
-    "labStructAddress_s": [
-      "Université Paris-Sud 11, Bâtiment 407, 91400, Orsay",
-      "Université Paris-Sud 11, Bâtiment 407, 91400, Orsay"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-03175286v1",
-    "city_s": "Lens",
-    "producedDateY_i": 2016,
-    "latitude": "50.437646936",
-    "longitude": "2.821237683"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a8e",
-    "docid": "2523516",
-    "title_s": [
-      "Modélisation du mélange de polymères réactifs dans une extrudeuse bi-vis"
-    ],
-    "authFullName_s": [
-      "Sandrine Hoppe",
-      "Bénédicte Zusatz",
-      "René Muller",
-      "Fernand Pla"
-    ],
-    "labStructAcronym_s": [
-      "LRGP",
-      "ICS",
-      "LSGC"
-    ],
-    "labStructAddress_s": [
-      "Université de Lorraine - ENSIC, 1 rue de Grandville BP 20451, 54001 Nancy Cedex",
-      "23 rue du Loess, BP 84047, 67034 STRASBOURG Cedex 2",
-      "1, rue Grandville BP 20451 54001 NANCY cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02523516v1",
-    "city_s": "Mulhouse",
-    "producedDateY_i": 2000,
-    "latitude": "47.748996149",
-    "longitude": "7.325470995"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a96",
-    "docid": "3558856",
-    "title_s": [
-      "Le moment Alain Poher ou la naissance du néo-libéralisme constitutionnel"
-    ],
-    "authFullName_s": [
-      "Jérémy Brzenczek"
-    ],
-    "labStructAcronym_s": [
-      "IRENEE"
-    ],
-    "labStructAddress_s": [
-      "IRENEE, Université de Lorraine, Campus Carnot/Ravinelle, 13 place Carnot, 54000 Nancy"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-lorraine.fr/hal-03558856v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2021,
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643a98",
-    "docid": "2523741",
-    "title_s": [
-      "Vers des matériaux composites bio-sourcés ? Enjeux en chimie et en procédés d'élaboration"
-    ],
-    "authFullName_s": [
-      "Sandrine Hoppe",
-      "Alain Durand"
-    ],
-    "labStructAcronym_s": [
-      "LRGP",
-      "LCPM"
-    ],
-    "labStructAddress_s": [
-      "Université de Lorraine - ENSIC, 1 rue de Grandville BP 20451, 54001 Nancy Cedex",
-      "Université de Lorraine - ENSIC, 1 rue Grandville, BP 20451, 54000 Nancy"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02523741v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2015,
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643aa5",
-    "docid": "2737371",
-    "title_s": [
-      "Apport des informations sur des croisées dans le cadre de l’évaluation génomique sur la qualité des œufs chez la poule",
-      "Contribution of crossbred information for genomic evaluation of egg quality in layers"
-    ],
-    "authFullName_s": [
-      "David Picard--Druet",
-      "Amandine Varenne",
-      "Frédéric Hérault",
-      "Florian Herry",
-      "Sophie Allais",
-      "Thierry Burlot",
-      "Pascale Le Roy"
-    ],
-    "labStructAcronym_s": [
-      "PEGASE"
-    ],
-    "labStructAddress_s": [
-      "16, le Clos 35590 Saint-Gilles"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02737371v1",
-    "city_s": "Tours",
-    "publisher_s": [
-      "ITAVI"
-    ],
-    "producedDateY_i": 2019,
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643aab",
-    "docid": "335434",
-    "title_s": [
-      "Wirtschaftslexik im Spannungsfeld zwischen Präkription und Vagheit"
-    ],
-    "authFullName_s": [
-      "Danielle Candel",
-      "Martin Stegu"
-    ],
-    "labStructAcronym_s": [
-      "HTL"
-    ],
-    "labStructAddress_s": [
-      "Université Paris Diderot, Bât. Olympe de Gouges, case postale 7034 , 75205 Paris cedex 13"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00335434v1",
-    "city_s": "Vienne",
-    "producedDateY_i": 2007,
-    "latitude": "45.520830747",
-    "longitude": "4.880866824"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643aac",
-    "docid": "335442",
-    "title_s": [
-      "Le développement de la terminologie linguistique sur le long terme"
-    ],
-    "authFullName_s": [
-      "Bernard Colombat"
-    ],
-    "labStructAcronym_s": [
-      "HTL"
-    ],
-    "labStructAddress_s": [
-      "Université Paris Diderot, Bât. Olympe de Gouges, case postale 7034 , 75205 Paris cedex 13"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00335442v1",
-    "city_s": "Nanterre",
-    "producedDateY_i": 2007,
-    "latitude": "48.896168757",
-    "longitude": "2.207090178"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643aaf",
-    "docid": "1534130",
-    "title_s": [
-      "Les garanties juridiques du règlement européen sur la protection des données personnelles contre les pratiques discriminatoires des algorithmes et des plateformes numériques"
-    ],
-    "authFullName_s": [
-      "Maryline Boizard"
-    ],
-    "labStructAcronym_s": [
-      "IODE"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Droit et de Science Politique -  9 Rue Jean Mace 35042 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-01534130v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2017,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ab0",
-    "docid": "4488200",
-    "title_s": [
-      "DREM-based Adaptive Observer for Induction Motors"
-    ],
-    "authFullName_s": [
-      "Anton Pyrkin",
-      "Alexey Bobtsov",
-      "Alexey Vedyakov",
-      "Romeo Ortega",
-      "Anastasiia Vediakova",
-      "Madina Sinetova"
-    ],
-    "structCountry_s": [
-      "ru",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "ru"
-    ],
-    "labStructAcronym_s": [
-      "L2S"
-    ],
-    "labStructAddress_s": [
-      "Plateau de Moulon 3 rue Joliot Curie 91192 GIF SUR YVETTE CEDEX"
-    ],
-    "uri_s": "https://centralesupelec.hal.science/hal-04488200v1",
-    "city_s": "Nice",
-    "page_s": "648-653",
-    "publisher_s": [
-      "IEEE"
-    ],
-    "producedDateY_i": 2019,
-    "latitude": "43.712363989",
-    "longitude": "7.237937874"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ab2",
-    "docid": "2809322",
-    "title_s": [
-      "Conditions d’adoption de plantes de services agro-écologiques en rotation avec la banane aux Antilles"
-    ],
-    "authFullName_s": [
-      "Jean-Marc Blazy",
-      "François Causeret",
-      "Jean-Louis Diman"
-    ],
-    "labStructAcronym_s": [
-      "ASTRO"
-    ],
-    "labStructAddress_s": [
-      "INRA Domaine Duclos Petit-Bourg F-97170 Guadeloupe"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02809322v1",
-    "city_s": "Schoelcher",
-    "page_s": "17 p.",
-    "producedDateY_i": 2011,
-    "fileMain_s": "https://hal.inrae.fr/hal-02809322/document",
-    "latitude": "14.645965157",
-    "longitude": "-61.100154162"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ab8",
-    "docid": "2575006",
-    "title_s": [
-      "Subsurface drainage design criteria in French shallow soils",
-      "Principes de conception des réseaux de drainage enterrés en France"
-    ],
-    "authFullName_s": [
-      "Benoît Lesaffre",
-      "Michel Penel"
-    ],
-    "labStructAcronym_s": [
-      "UR DAAN"
-    ],
-    "labStructAddress_s": [
-      "Antony"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02575006v1",
-    "city_s": "Le Caire",
-    "page_s": "229-233",
-    "publisher_s": [
-      "Cemagref Editions"
-    ],
-    "producedDateY_i": 1990,
-    "latitude": "44.37433891",
-    "longitude": "6.06896198"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643abf",
-    "docid": "4413599",
-    "title_s": [
-      "Atelier 12 Apprentissage du geste : créer un tutoriel efficace"
-    ],
-    "authFullName_s": [
-      "Laurent Heurley"
-    ],
-    "labStructAcronym_s": [
-      "CRP-CPO"
-    ],
-    "labStructAddress_s": [
-      "Université de Picardie Jules Verne - Pôle Campus - Bâtiment E - 3ème étage - 1, Chemin du Thil -  CS 52 501 - 80025 Amiens Cedex 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://u-picardie.hal.science/hal-04413599v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2019,
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac1",
-    "docid": "4413509",
-    "title_s": [
-      "L'impact de l'outil utilisé sur l'apprentissage"
-    ],
-    "authFullName_s": [
-      "Atheena Johnson"
-    ],
-    "labStructAcronym_s": [
-      "CREA (EA 370)"
-    ],
-    "labStructAddress_s": [
-      "Université Paris NanterreUFR LCE - Bâtiment V200, Avenue de la République92001 Nanterre"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04413509v1",
-    "city_s": "Nancy",
-    "producedDateY_i": 2020,
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac2",
-    "docid": "810640",
-    "title_s": [
-      "Geometric decorrelation in acoustic tools for surveying the seafloor"
-    ],
-    "authFullName_s": [
-      "Pierre Cervenka"
-    ],
-    "labStructAcronym_s": [
-      "DALEMBERT"
-    ],
-    "labStructAddress_s": [
-      "Boite 162 4 place Jussieu 75005 Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00810640v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00810640/document",
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac4",
-    "docid": "4648833",
-    "title_s": [
-      "Passés du futur et fictions proactives : les stratégies temporelles de la dystopie"
-    ],
-    "authFullName_s": [
-      "Valérie Stiénon"
-    ],
-    "labStructAcronym_s": [
-      "Pléiade",
-      "IUF"
-    ],
-    "labStructAddress_s": [
-      "UFR LSHS - Université Paris 1399, av. Jean-Baptiste Clément93430  Villetaneuse",
-      "Maison des Universités 103 Boulevard Saint-Michel 75005 Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04648833v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2023,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac5",
-    "docid": "2809166",
-    "title_s": [
-      "What the internal temperature of sheep hosts' may tell us about a Haemonchus contortus infection"
-    ],
-    "authFullName_s": [
-      "Caroline Chylinski",
-      "Jacques J. Cortet",
-      "Didier Crochet",
-      "Thierry Chaumeil",
-      "Pierre Sarradin",
-      "Jacques J. Cabaret"
-    ],
-    "labStructAcronym_s": [
-      "UR IASP",
-      "PFIE"
-    ],
-    "labStructAddress_s": [
-      "INRA 37380 Nouzilly",
-      "INRA 37380 Nouzilly."
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02809166v1",
-    "city_s": "Nouzilly",
-    "page_s": "1 p.",
-    "producedDateY_i": 2011,
-    "latitude": "47.537120176",
-    "longitude": "0.740754095"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac6",
-    "docid": "3133215",
-    "title_s": [
-      "Observateur à mémoire finie pour le diagnostic de systèmes non linéaires à temps continu et à mesures discretes"
-    ],
-    "authFullName_s": [
-      "Tingting Zhang",
-      "Frédéric Kratz",
-      "Yunhui Hou",
-      "Vincent Idasiak"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "PRISME"
-    ],
-    "labStructAddress_s": [
-      "8, rue Léonard de Vinci - 45067 ORLEANS CEDEX 2 - France"
-    ],
-    "uri_s": "https://hal.science/hal-02408189v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2019,
-    "fileMain_s": "https://hal.science/hal-02408189/document",
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac7",
-    "docid": "2737195",
-    "title_s": [
-      "Phytophthora capsici aggressiveness toward pepper and tomato"
-    ],
-    "authFullName_s": [
-      "Emmanuel Szadkowski",
-      "Alexandre Bachellez",
-      "Nasradin Touhami",
-      "Anne Massire",
-      "Dylan Storey",
-      "Kurt Lamour",
-      "Véronique Lefebvre"
-    ],
-    "labStructAcronym_s": [
-      "GAFL"
-    ],
-    "labStructAddress_s": [
-      "INRAE Domaine Saint-Maurice 67 allée des chênes CS60094 84143 MONTFAVET CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "us"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02737195v1",
-    "city_s": "Avignon",
-    "producedDateY_i": 2019,
-    "latitude": "43.935441391",
-    "longitude": "4.841098248"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ac8",
-    "docid": "810680",
-    "title_s": [
-      "Auditory localization and reaching movements in the peripersonal space"
-    ],
-    "authFullName_s": [
-      "Gaetan Parseihian",
-      "Brian Katz"
-    ],
-    "labStructAcronym_s": [
-      "LIMSI"
-    ],
-    "labStructAddress_s": [
-      "Université Paris-Sud Bât. 507 - Rue du Belvédère -91405 ORSAY CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00810680v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00810680/document",
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643acc",
-    "docid": "93024",
-    "title_s": [
-      "Empirical analysis of term structures of credit spreads indices : a Kalman filtering approach"
-    ],
-    "authFullName_s": [
-      "Franck Moraux"
-    ],
-    "labStructAcronym_s": [
-      "CREM"
-    ],
-    "labStructAddress_s": [
-      "7 place Hoche, BP 8651435065 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00093024v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2003,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ad3",
-    "docid": "495708",
-    "title_s": [
-      "Le capitalisme et ses critiques"
-    ],
-    "authFullName_s": [
-      "Eve Chiapello"
-    ],
-    "labStructAcronym_s": [
-      "GREGH"
-    ],
-    "labStructAddress_s": [
-      "1, avenue de la Libération 78351 JOUY EN JOSAS CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hec.hal.science/hal-00495708v1",
-    "city_s": "Lille",
-    "producedDateY_i": 2009,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ad5",
-    "docid": "416683",
-    "title_s": [
-      "Mise à disposition des spectres d'activité des antibiotiques pour le médecin généraliste : méthode et résultats."
-    ],
-    "authFullName_s": [
-      "Jérôme Nobécourt",
-      "Catherine Duclos"
-    ],
-    "labStructAcronym_s": [
-      "LIM&BIO"
-    ],
-    "labStructAddress_s": [
-      "UFR de Santé, Médecine et Biologie Humaine, Université Paris 13, 74, rue Marcel Cachin, 93017 Bobigny Cedex."
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00416683v1",
-    "city_s": "Nancy",
-    "page_s": "13-24",
-    "producedDateY_i": 2008,
-    "fileMain_s": "https://hal.science/hal-00416683/document",
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ad9",
-    "docid": "1370976",
-    "title_s": [
-      "Agences Régionales de Santé : aboutissement d’une étatisation progressive du système de santé par le territoire et le contrat"
-    ],
-    "authFullName_s": [
-      "Victor Duchesne"
-    ],
-    "labStructAcronym_s": [
-      "CEPN"
-    ],
-    "labStructAddress_s": [
-      "UFR de Sciences Economiques, Université Paris 13, 99 avenue Jean-Baptiste Clément, F-93430, Villetaneuse."
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01370976v1",
-    "city_s": "Lille",
-    "producedDateY_i": 2016,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ade",
-    "docid": "3773331",
-    "title_s": [
-      "La complexité. Thème et variations"
-    ],
-    "authFullName_s": [
-      "Gil Delannoi"
-    ],
-    "labStructAcronym_s": [
-      "CEVIPOF"
-    ],
-    "labStructAddress_s": [
-      "27, rue Saint-Guillaume75337 Paris Cedex 07"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://sciencespo.hal.science/hal-03773331v1",
-    "city_s": "Cerisy",
-    "producedDateY_i": 2021,
-    "latitude": "49.896256894",
-    "longitude": "2.62238339"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ae3",
-    "docid": "3773359",
-    "title_s": [
-      "Caractérisation multiscalaire de céramiques laténiennes en Champagne crayeuse"
-    ],
-    "authFullName_s": [
-      "Audrey Morigoni",
-      "Gilles Fronteau",
-      "Marion Saurel",
-      "Dominique Mouze",
-      "Michel Chossenot",
-      "Vincent Barbin"
-    ],
-    "labStructAcronym_s": [
-      "GEGENAA"
-    ],
-    "labStructAddress_s": [
-      "Centre de Recherche en Environnement et Agronomie (CREA) - 2 esplanade Roland Garros - 51100 Reims"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03773359v1",
-    "city_s": "Montpellier",
-    "producedDateY_i": 2009,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ae5",
-    "docid": "1065186",
-    "title_s": [
-      "Banc de test de transistors MOSFET de puissance sous irradiation par ions lourds"
-    ],
-    "authFullName_s": [
-      "Jean-Jacques Huselstein",
-      "François Forest",
-      "Mickaël Petit",
-      "Aymeric Privat",
-      "Antoine Touboul"
-    ],
-    "labStructAcronym_s": [
-      "IES",
-      "IES",
-      "IES"
-    ],
-    "labStructAddress_s": [
-      "860, rue Saint Priest, Bâtiment 5 - CC 05001 -34095 Montpellier Cedex 5",
-      "860, rue Saint Priest, Bâtiment 5 - CC 05001 -34095 Montpellier Cedex 5",
-      "860, rue Saint Priest, Bâtiment 5 - CC 05001 -34095 Montpellier Cedex 5"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01065186v1",
-    "city_s": "Cachan",
-    "producedDateY_i": 2014,
-    "fileMain_s": "https://hal.science/hal-01065186/document",
-    "latitude": "48.791662561",
-    "longitude": "2.332077446"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ae6",
-    "docid": "975309",
-    "title_s": [
-      "Modélisation individualisée des sillons corticaux humains"
-    ],
-    "authFullName_s": [
-      "Nicolas Royackkers",
-      "Michel Desvignes",
-      "Houssam Fawal",
-      "Marinette Revenu"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "GREYC"
-    ],
-    "labStructAddress_s": [
-      "Boulevard du Maréchal Juin - 14050 CAEN Cedex"
-    ],
-    "uri_s": "https://hal.science/hal-00975309v1",
-    "city_s": "Tours",
-    "page_s": "429-433",
-    "producedDateY_i": 1996,
-    "fileMain_s": "https://hal.science/hal-00975309/document",
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ae8",
-    "docid": "810925",
-    "title_s": [
-      "Blood-brain barrier disruption with focused ultrasound enhances delivery of dopamine transporter tracer (PE2I) into the brain"
-    ],
-    "authFullName_s": [
-      "Jean-Michel Escoffre",
-      "Sophie Serrière",
-      "Sylvie Bodard",
-      "Anthony Novell",
-      "Sylvie Chalon",
-      "Ayache Bouakaz"
-    ],
-    "labStructAcronym_s": [
-      "iBraiN"
-    ],
-    "labStructAddress_s": [
-      "10 Bd TonnelléBât. Thérèse Planiol37032 Tours Cedex 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00810925v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00810925/document",
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ae9",
-    "docid": "810930",
-    "title_s": [
-      "Measurement of subwoofers with the field separation method: comparison of p- p and p-v formulations"
-    ],
-    "authFullName_s": [
-      "Manuel Melon",
-      "Christophe Langrenne",
-      "Alexandre Garcia"
-    ],
-    "labStructAcronym_s": [
-      "LMSSC"
-    ],
-    "labStructAddress_s": [
-      "292, rue Saint Martin 75141 PARIS Cedex 03"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00810930v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00810930/document",
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643aed",
-    "docid": "1065223",
-    "title_s": [
-      "Génératrice Asynchrone à Double Alimentation pour la production d'énergie hydrolienne dans le Raz Blanchard- Modélisation et Simulations"
-    ],
-    "authFullName_s": [
-      "Mamadou Oury Fatoumata Diallo",
-      "Mamadou Baïlo Camara",
-      "Slamani Youssef",
-      "Hamid Gualous",
-      "Brayima Dakyo"
-    ],
-    "labStructAcronym_s": [
-      "LUSAC",
-      "GREAH"
-    ],
-    "labStructAddress_s": [
-      "Site universitaire de Cherbourg-Octeville - 60 rue Max-Pol Fouchet - CS 20082 - 50130 Cherbourg-en-Cotentin",
-      "75 rue Bellot - BP 1123 -76063 Le Havre Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01065223v1",
-    "city_s": "Cachan",
-    "producedDateY_i": 2014,
-    "fileMain_s": "https://hal.science/hal-01065223/document",
-    "latitude": "48.791662561",
-    "longitude": "2.332077446"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643af1",
-    "docid": "1850512",
-    "title_s": [
-      "Improvement of oxygen flux through perovskite ceramic membranes using coating with ultra-divided particles"
-    ],
-    "authFullName_s": [
-      "Laure Guironnet",
-      "Pierre-Marie Geffroy",
-      "N. Richet",
-      "Thierry Chartier"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "SPCTS",
-      "SPCTS"
-    ],
-    "labStructAddress_s": [
-      "SPCTS, Centre Européen de la Céramique, 12 Rue Atlantis, 87068 LIMOGES CEDEX",
-      "SPCTS, Centre Européen de la Céramique, 12 Rue Atlantis, 87068 LIMOGES CEDEX"
-    ],
-    "uri_s": "https://unilim.hal.science/hal-01850512v1",
-    "city_s": "Limoges",
-    "producedDateY_i": 2016,
-    "latitude": "45.854408855",
-    "longitude": "1.248829946"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643af2",
-    "docid": "569027",
-    "title_s": [
-      "Pouvoir et limites de l'hérédité, Us et Abus de la Génétique"
-    ],
-    "authFullName_s": [
-      "André Pichot"
-    ],
-    "labStructAcronym_s": [
-      "LHSP"
-    ],
-    "labStructAddress_s": [
-      "Université de Lorraine, 91, avenue de la Libération BP 454, 54001 Nancy Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00569027v1",
-    "city_s": "Avignon",
-    "producedDateY_i": 2007,
-    "latitude": "43.935441391",
-    "longitude": "4.841098248"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643af6",
-    "docid": "810878",
-    "title_s": [
-      "Structural Health Monitoring of Smart Composite Material by Acoustic Emission"
-    ],
-    "authFullName_s": [
-      "Sahir Masmoudi",
-      "Abderrahim El Mahi",
-      "Said Turki",
-      "Rachid El Guerjouma"
-    ],
-    "labStructAcronym_s": [
-      "LAUM"
-    ],
-    "labStructAddress_s": [
-      "Laboratoire d'Acoustique de l'Université du Mans, LAUM - UMR 6613 CNRS, Le Mans Université, Avenue Olivier Messiaen, 72085 LE MANS"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "tn",
-      "tn"
-    ],
-    "uri_s": "https://hal.science/hal-00810878v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00810878/document",
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643afd",
-    "docid": "810934",
-    "title_s": [
-      "PIV measurements of 3-dimensional acoustic Rayleigh streaming in a square cross-section standing wave resonator"
-    ],
-    "authFullName_s": [
-      "Ida Reyt",
-      "Yasser Rafat",
-      "Luc Mongeau",
-      "Rani Taher",
-      "Hélène Bailliet"
-    ],
-    "labStructAcronym_s": [
-      "PPrime [Poitiers]"
-    ],
-    "labStructAddress_s": [
-      "Institut PPRIME : Recherche et Ingénierie en Matériaux, Mécanique et EnergétiqueSP2MI Téléport 2Boulevard Pierre et Marie CurieBP 3017986962 FUTUROSCOPE CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00810934v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2012,
-    "fileMain_s": "https://hal.science/hal-00810934/document",
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643afe",
-    "docid": "681892",
-    "title_s": [
-      "Archéologie et aménagement des territoires"
-    ],
-    "authFullName_s": [
-      "Xavier Delestre",
-      "Philippe Pergola"
-    ],
-    "labStructAcronym_s": [
-      "DRAC PACA",
-      "CCJ",
-      "LAMM"
-    ],
-    "labStructAddress_s": [
-      "23, boulevard du Roi René - 13617 Aix-en-Provence cedex 1",
-      "5 Rue du château de l'Horloge - BP 647 13094 AIX EN PROVENCE CEDEX 2",
-      "5 Rue du château de l'Horloge - BP 647 13094 AIX EN PROVENCE CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00681892v1",
-    "city_s": "Menton",
-    "page_s": "112 p.",
-    "publisher_s": [
-      "Musée d'anthropologie préhistorique de Monaco"
-    ],
-    "producedDateY_i": 2011,
-    "latitude": "43.791862947",
-    "longitude": "7.493340539"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b03",
-    "docid": "379040",
-    "title_s": [
-      "Effet des contraintes de mise en oeuvre sur la cristallisation des polymères"
-    ],
-    "authFullName_s": [
-      "René Fulchiron"
-    ],
-    "labStructAcronym_s": [
-      "IMP-LMPB"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment ISTIL 15, Bd. André Latarget Université Claude Bernard 43, Bd du 11 Novembre 1918 69622 Villeurbanne Cédex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00379040v1",
-    "city_s": "Aussois",
-    "producedDateY_i": 2009,
-    "latitude": "45.255051384",
-    "longitude": "6.728993587"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b07",
-    "docid": "200371",
-    "title_s": [
-      "Réseau résonant sur guide multimode : une efficacité de couplage mesurée de 78%"
-    ],
-    "authFullName_s": [
-      "Nathalie Destouches",
-      "D. Blanc",
-      "J. Franc",
-      "N. Hendrickx",
-      "S. Tonchev",
-      "J.-C. Pommier",
-      "P. van Daele",
-      "O. Parriaux"
-    ],
-    "labStructAcronym_s": [
-      "LabHC"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment F 18 Rue du Professeur Benoît Lauras42000 Saint-Etienne"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://ujm.hal.science/ujm-00200371v1",
-    "city_s": "Grenoble",
-    "page_s": "x",
-    "producedDateY_i": 2007,
-    "latitude": "45.182206145",
-    "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b09",
-    "docid": "461585",
-    "title_s": [
-      "« A la croisée de l'archéologie et de l'histoire : la restitution 3D de l'abbaye Notre-Dame-du-Vœu à Cherbourg-Octeville »"
-    ],
-    "authFullName_s": [
-      "Eric Broine"
-    ],
-    "labStructAcronym_s": [
-      "CRAHM"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Sciences B Esplanade de la paix 14032 CAEN CEDEX 5"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00461585v1",
-    "city_s": "CAEN",
-    "page_s": "p.19-34.",
-    "publisher_s": [
-      "Presses Universitaires de Caen"
-    ],
-    "producedDateY_i": 2008,
-    "latitude": "49.184977638",
-    "longitude": "-0.369888818"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b0c",
-    "docid": "2783814",
-    "title_s": [
-      "Halofuginone lactate in the treatment of cryptosporidiosis in ruminants"
-    ],
-    "authFullName_s": [
-      "P. Yvore",
-      "Murielle Naciri"
-    ],
-    "labStructAcronym_s": [
-      "PAP"
-    ],
-    "labStructAddress_s": [
-      "INRA 37380 Nouzilly"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02783814v1",
-    "city_s": "Tours",
-    "publisher_s": [
-      "INRA"
-    ],
-    "producedDateY_i": 1989,
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b12",
-    "docid": "1499514",
-    "title_s": [
-      "Pattern Analysis for an Automatic and Low-cost 3D Face Acquisition Technique"
-    ],
-    "authFullName_s": [
-      "Karima Ouji",
-      "Mohsen Ardabilian",
-      "Liming Chen",
-      "Faouzi Ghorbel"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "tn",
-      "tn",
-      "tn"
-    ],
-    "labStructAcronym_s": [
-      "LIRIS",
-      "GRIFT"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Blaise Pascal - 20, avenue Albert Einstein - 69621 Villeurbanne cedex",
-      "GRIFT - ENSI rue des Entrepreneurs Charguia II 2035, Tunis-Catharge Tunisie"
-    ],
-    "uri_s": "https://hal.science/hal-01499514v1",
-    "city_s": "Bordeaux",
-    "page_s": "300-308",
-    "publisher_s": [
-      "Springer"
-    ],
-    "producedDateY_i": 2009,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b13",
-    "docid": "1664499",
-    "title_s": [
-      "STRUCTURES MODALES ET ORNEMENTATIONS DANS LES MUSIQUES ARABES : MODELISATIONS ET PRESENTATION D'UNE BIBLIOTHEQUE D'OBJETS DANS CSOUND"
-    ],
-    "authFullName_s": [
-      "Raed Belhassen"
-    ],
-    "labStructAcronym_s": [
-      "MUSIDANSE",
-      "MUSIDANSE"
-    ],
-    "labStructAddress_s": [
-      "Université Paris 8 Vincennes-Saint-Denis - 2 rue de la Liberté - 93526 Saint-Denis cedex",
-      "Université Paris 8 Vincennes-Saint-Denis - 2 rue de la Liberté - 93526 Saint-Denis cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01664499v1",
-    "city_s": "Bourges",
-    "producedDateY_i": 2014,
-    "fileMain_s": "https://hal.science/hal-01664499/document",
-    "latitude": "47.074946856",
-    "longitude": "2.40464687"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b18",
-    "docid": "2840415",
-    "title_s": [
-      "Does the spinning process induce particular protein structure and orientation in films ?"
-    ],
-    "authFullName_s": [
-      "Vincent Rampon",
-      "N. Nicolas",
-      "P. Robert",
-      "E. Dufour"
-    ],
-    "labStructAddress_s": [
-      "44316 Nantes",
-      "F-44000 Nantes"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LPCM"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02840415v1",
-    "city_s": "Montpellier",
-    "page_s": "1 p.",
-    "producedDateY_i": 1998,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b19",
-    "docid": "841156",
-    "title_s": [
-      "Un cérémonial indicible : les Te Deum royaux dans Le Ceremonial françois (1649)"
-    ],
-    "authFullName_s": [
-      "Xavier Bisaro"
-    ],
-    "labStructAcronym_s": [
-      "CESR"
-    ],
-    "labStructAddress_s": [
-      "59 Rue Néricault-Destouches - BP 12050 37020 TOURS CEDEX 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00841156v1",
-    "city_s": "Le Puy",
-    "page_s": "à venir",
-    "publisher_s": [
-      "Presses universitaires Blaise Pascal"
-    ],
-    "producedDateY_i": 2010,
-    "latitude": "47.345730017",
-    "longitude": "6.230695456"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b1d",
-    "docid": "757613",
-    "title_s": [
-      "Pulvérisation magnétron pulsée à haute puissance pour la synthèse de catalyseur platine"
-    ],
-    "authFullName_s": [
-      "Stéphane Cuynet",
-      "Amaël Caillard",
-      "Pascal Brault"
-    ],
-    "labStructAcronym_s": [
-      "GREMI"
-    ],
-    "labStructAddress_s": [
-      "14 Rue d'Issoudun - BP 6744 45067 ORLEANS CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00757613v1",
-    "city_s": "Belfort",
-    "producedDateY_i": 2012,
-    "latitude": "47.64696911",
-    "longitude": "6.845198706"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b24",
-    "docid": "2785201",
-    "title_s": [
-      "Favoriser la biodiversité fonctionnelle dans les vergers de pommiers : résultats d'une enquête européenne auprès de conseillers et d'arboriculteurs"
-    ],
-    "authFullName_s": [
-      "Servane Penvern",
-      "Sarah Fernique"
-    ],
-    "labStructAcronym_s": [
-      "ECODEVELOPPEMENT"
-    ],
-    "labStructAddress_s": [
-      "INRAE Domaine Saint-Paul- Site Agroparc - 84914 AVIGNON CEDEX 9"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785201v1",
-    "city_s": "Avignon",
-    "page_s": "25 p.",
-    "producedDateY_i": 2017,
-    "fileMain_s": "https://hal.inrae.fr/hal-02785201/document",
-    "latitude": "43.935441391",
-    "longitude": "4.841098248"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b28",
-    "docid": "1154297",
-    "title_s": [
-      "Prédiction de l’évolution de tumeurs pulmonaires en imagerie TEP"
-    ],
-    "authFullName_s": [
-      "Hongmei Mi",
-      "Caroline Petitjean",
-      "Su Ruan",
-      "Bernard Dubray",
-      "Pierre Vera"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LITIS"
-    ],
-    "labStructAddress_s": [
-      "Avenue de l'Université 76800 Saint-Étienne-du-Rouvray",
-      "rue d'Amiens, 76000 Rouen",
-      "1 Rue d'Amiens, 76038 Rouen"
-    ],
-    "uri_s": "https://hal.science/hal-01154297v1",
-    "city_s": "Brest",
-    "producedDateY_i": 2013,
-    "latitude": "48.400345079",
-    "longitude": "-4.5024793590000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b2b",
-    "docid": "2841208",
-    "title_s": [
-      "Purification et caractérisation biochimique de l'ARNt: pseudouridine 38/39 synthétase (Pus3p) de S. cerevisiae"
-    ],
-    "authFullName_s": [
-      "François Lecointe",
-      "Yuri Motorin",
-      "Henri Grosjean"
-    ],
-    "labStructAcronym_s": [
-      "LEBS"
-    ],
-    "labStructAddress_s": [
-      "91 198 Gif-sur-Yvette Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02841208v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2000,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b30",
-    "docid": "594235",
-    "title_s": [
-      "Stickers 25JAN: collection des autocollants de la révolution du 25 janvier 2011 en Égypte"
-    ],
-    "authFullName_s": [
-      "Vincent Battesti"
-    ],
-    "labStructAcronym_s": [
-      "EAE"
-    ],
-    "labStructAddress_s": [
-      "Dpt Hommes Natures Sociétés, 57 rue Cuvier 75231 Paris Cedex 05 - Musée de l'Homme, place du Trocadéro 75016 Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://media.hal.science/medihal-00594235v1",
-    "city_s": "Le Caire",
-    "producedDateY_i": 2011,
-    "fileMain_s": "https://media.hal.science/medihal-00594235/document",
-    "latitude": "44.37433891",
-    "longitude": "6.06896198"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b33",
-    "docid": "2785268",
-    "title_s": [
-      "Est-il possible de prévenir le diabète par la nutrition?"
-    ],
-    "authFullName_s": [
-      "Anthony Fardet"
-    ],
-    "labStructAcronym_s": [
-      "UNH"
-    ],
-    "labStructAddress_s": [
-      "Site INRAE Theix : 63122 Saint-Gènes-Champanelle // Site Clermont : UFR de Médecine et de Pharmacie, TSA 50400, 28 Place Henri Dunant, 63001 Clermont-Ferrand"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785268v1",
-    "city_s": "Montpellier",
-    "producedDateY_i": 2017,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b34",
-    "docid": "2785277",
-    "title_s": [
-      "Synthèse des outils, indicateurs, référentiels disponibles pour comprendre et piloter la biologie des sols"
-    ],
-    "authFullName_s": [
-      "Antonio Bispo",
-      "Nathalie Schnebelen"
-    ],
-    "labStructAcronym_s": [
-      "InfoSol",
-      "DEPT EA"
-    ],
-    "labStructAddress_s": [
-      "2163, avenue de la Pomme de PinCS 4000145075 ORLEANS CEDEX 2",
-      "Centre de Recherche Val de Loire, 2163 avenue de la Pomme de Pin, CS 40001, Ardon, F-45075 Orléans cedex 2, FranceCentre de recherche Provence-Alpes-Côte d'Azur"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785277v1",
-    "city_s": "Dijon",
-    "page_s": "21 p.",
-    "producedDateY_i": 2018,
-    "latitude": "47.322850621",
-    "longitude": "5.037471304"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b38",
-    "docid": "4196400",
-    "title_s": [
-      "COMPARISON OF ENDODONTIC REINTERVENTION TIME ACCORDING TO THE TYPE OF BONDED RESTORATION ON ENDODONTICALLY TREATED TEETH"
-    ],
-    "authFullName_s": [
-      "Nicolas Decerle",
-      "E Hivert",
-      "Marie-Laure Munoz-Sanchez"
-    ],
-    "labStructAcronym_s": [
-      "CROC"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Chirurgie Dentaire, 2 rue de Braga, 63100 Clermont-Ferrand",
-      "CHU Clermont-Ferrand - Site Estaing, 1 Rue Lucie et Raymond Aubrac, 63100 Clermont-Ferrand"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://uca.hal.science/hal-04196400v1",
-    "city_s": "Brest",
-    "producedDateY_i": 2023,
-    "latitude": "48.400345079",
-    "longitude": "-4.5024793590000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b3f",
-    "docid": "594263",
-    "title_s": [
-      "Le statut du majeur protégé dans le procès pénal"
-    ],
-    "authFullName_s": [
-      "Gildas Roussel"
-    ],
-    "labStructAcronym_s": [
-      "CRDP"
-    ],
-    "labStructAddress_s": [
-      "12, rue de Kergoat - CS93837 29238 Brest Cedex 3"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-brest.fr/hal-00594263v1",
-    "city_s": "Brest",
-    "producedDateY_i": 2010,
-    "latitude": "48.400345079",
-    "longitude": "-4.5024793590000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b44",
-    "docid": "2785247",
-    "title_s": [
-      "Self-tracking et fracture numérique ? Usages sociaux des outils d'auto-mesure \"alimentation / activité physique"
-    ],
-    "authFullName_s": [
-      "Faustine Regnier"
-    ],
-    "labStructAcronym_s": [
-      "ALISS"
-    ],
-    "labStructAddress_s": [
-      "65 boulevard de Brandebourg 94205 Ivry sur Seine"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785247v1",
-    "city_s": "Bobigny",
-    "producedDateY_i": 2018,
-    "latitude": "48.907435801",
-    "longitude": "2.439842933"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b45",
-    "docid": "594227",
-    "title_s": [
-      "Stickers 25JAN: collection des autocollants de la révolution du 25 janvier 2011 en Égypte"
-    ],
-    "authFullName_s": [
-      "Vincent Battesti"
-    ],
-    "labStructAcronym_s": [
-      "EAE"
-    ],
-    "labStructAddress_s": [
-      "Dpt Hommes Natures Sociétés, 57 rue Cuvier 75231 Paris Cedex 05 - Musée de l'Homme, place du Trocadéro 75016 Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://media.hal.science/medihal-00594227v1",
-    "city_s": "Le Caire",
-    "producedDateY_i": 2011,
-    "fileMain_s": "https://media.hal.science/medihal-00594227/document",
-    "latitude": "44.37433891",
-    "longitude": "6.06896198"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b46",
-    "docid": "4455883",
-    "title_s": [
-      "Jardins familiaux : jardins de femmes ?",
-      "Allotment gardens: women's gardens?"
-    ],
-    "authFullName_s": [
-      "Léna Jégat"
-    ],
-    "labStructAcronym_s": [
-      "ESO"
-    ],
-    "labStructAddress_s": [
-      "Maison de la Recherche en Sciences Sociales - Place du Recteur Henri Le Moal 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-04455883v1",
-    "city_s": "Brest",
-    "producedDateY_i": 2023,
-    "latitude": "48.400345079",
-    "longitude": "-4.5024793590000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b47",
-    "docid": "1716302",
-    "title_s": [
-      "Quantum Light : a Brief Introduction (Orale)"
-    ],
-    "authFullName_s": [
-      "Philippe Grangier"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LCF"
-    ],
-    "labStructAddress_s": [
-      "2 avenue Augustin Fresnel, 91127 Palaiseau Cedex"
-    ],
-    "uri_s": "https://hal-iogs.archives-ouvertes.fr/hal-01716302v1",
-    "city_s": "Strasbourg",
-    "producedDateY_i": 2015,
-    "latitude": "48.571265",
-    "longitude": "7.767760376"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b49",
-    "docid": "4196384",
-    "title_s": [
-      "FIRST STEPS OF VALIDATION OF TRAUMATODONTO, A SOFTWARE FOR LEARNING DIAGNOSIS AND TREATMENT OF DENTAL TRAUMA"
-    ],
-    "authFullName_s": [
-      "Pauline Bonhoure",
-      "L Blaud",
-      "Olivier François",
-      "Pierre-Yves Cousson",
-      "Martine Hennequin",
-      "Marie-Laure Munoz-Sanchez"
-    ],
-    "labStructAcronym_s": [
-      "CROC"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Chirurgie Dentaire, 2 rue de Braga, 63100 Clermont-Ferrand",
-      "CHU Clermont-Ferrand - Site Estaing, 1 Rue Lucie et Raymond Aubrac, 63100 Clermont-Ferrand"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://uca.hal.science/hal-04196384v1",
-    "city_s": "Brest",
-    "producedDateY_i": 2023,
-    "latitude": "48.400345079",
-    "longitude": "-4.5024793590000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b4f",
-    "docid": "2785372",
-    "title_s": [
-      "Le végétal dans nos assiettes : apports récents de la science et nouvelles questions de recherche ?"
-    ],
-    "authFullName_s": [
-      "Marie Josephe Amiot-Carlin"
-    ],
-    "labStructAcronym_s": [
-      "UMR MOISA"
-    ],
-    "labStructAddress_s": [
-      "2 Place Pierre Viala 34 060 Montpellier Cedex 1"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785372v1",
-    "city_s": "Avignon",
-    "page_s": "25 p.",
-    "producedDateY_i": 2018,
-    "fileMain_s": "https://hal.inrae.fr/hal-02785372/document",
-    "latitude": "43.935441391",
-    "longitude": "4.841098248"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b54",
-    "docid": "4291441",
-    "title_s": [
-      "Catalyse d’oxydation à basse température"
-    ],
-    "authFullName_s": [
-      "Sebastien Royer"
-    ],
-    "labStructAcronym_s": [
-      "UCCS"
-    ],
-    "labStructAddress_s": [
-      "Cité Scientifique - Bâtiment C3 - 59655 Villeneuve d'Ascq Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-lille.fr/hal-04291441v1",
-    "city_s": "Montpellier",
-    "producedDateY_i": 2022,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b57",
-    "docid": "131866",
-    "title_s": [
-      "Votez veto pour l'Arbre de la Vie"
-    ],
-    "authFullName_s": [
-      "Vincent Berry",
-      "Vincent Ranwez",
-      "Pierre-Henri Fabre",
-      "Emmanuel J.P. Douzery"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LIRMM",
-      "UMR ISEM"
-    ],
-    "labStructAddress_s": [
-      "161 rue Ada - 34095 Montpellier",
-      "Place E. Bataillon CC 064 34095 Montpellier Cedex 05"
-    ],
-    "uri_s": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00131866v1",
-    "city_s": "Bordeaux",
-    "page_s": "251-263",
-    "producedDateY_i": 2006,
-    "fileMain_s": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00131866/document",
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b59",
-    "docid": "2785375",
-    "title_s": [
-      "Les différents tissus adipeux du porc"
-    ],
-    "authFullName_s": [
-      "Jacques Mourot"
-    ],
-    "labStructAcronym_s": [
-      "PEGASE"
-    ],
-    "labStructAddress_s": [
-      "16, le Clos 35590 Saint-Gilles"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02785375v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2018,
-    "fileMain_s": "https://hal.inrae.fr/hal-02785375/document",
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b5a",
-    "docid": "3342509",
-    "title_s": [
-      "Functional and molecular characterisation of An. gambiae muscarinic receptors"
-    ],
-    "authFullName_s": [
-      "Alexandre Pilon",
-      "Delphine Goven",
-      "Valérie Raymond"
-    ],
-    "labStructAcronym_s": [
-      "SIFCIR"
-    ],
-    "labStructAddress_s": [
-      "Université d'Angers, SIFCIR - Faculté des Sciences, Bâtiments C et F, 1er Étage - 2 Boulevard Lavoisier, 49045 Angers CEDEX 01"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-angers.hal.science/hal-03342509v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2020,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b5b",
-    "docid": "3342512",
-    "title_s": [
-      "Les effets de la génération de schémas sur l’apprentissage avec tablette : une étude auprès d’élèves de cinquième"
-    ],
-    "authFullName_s": [
-      "Julie Rochat",
-      "Eric Jamet",
-      "Estelle Michinov"
-    ],
-    "labStructAcronym_s": [
-      "LP3C - EA1285"
-    ],
-    "labStructAddress_s": [
-      "UFR Sciences Humaines. Place du Recteur Henri Le Moal. 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03342512v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2018,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b62",
-    "docid": "339963",
-    "title_s": [
-      "Quel avenir pour le QGP"
-    ],
-    "authFullName_s": [
-      "P. Crochet"
-    ],
-    "labStructAcronym_s": [
-      "LPC"
-    ],
-    "labStructAddress_s": [
-      "Campus des Cézeaux, 24 avenue des Landais, BP 80026, 63171 Aubière Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00339963v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2008,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b65",
-    "docid": "98458",
-    "title_s": [
-      "Sciences et techniques au service des sens : Introduction et mise en perspective."
-    ],
-    "authFullName_s": [
-      "Jean-Marie Pierrel"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAddress_s": [
-      "615 rue du Jardin Botanique 54600 Villers-lès-Nancy",
-      "Campus Scientifique BP 239 54506 Vandoeuvre-lès-Nancy Cedex"
-    ],
-    "labStructAcronym_s": [
-      "LORIA"
-    ],
-    "uri_s": "https://inria.hal.science/inria-00098458v1",
-    "city_s": "Nancy",
-    "page_s": "3 p",
-    "producedDateY_i": 1998,
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b69",
-    "docid": "3138929",
-    "title_s": [
-      "La justice de la Cour de cassation et du Conseil d’Etat face au monde moderne du travail (1890-première guerre mondiale)"
-    ],
-    "authFullName_s": [
-      "Olivier Tholozan"
-    ],
-    "labStructAcronym_s": [
-      "LTD"
-    ],
-    "labStructAddress_s": [
-      "3 avenue Robert Schuman, 13628 Aix-en-Provence"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://amu.hal.science/hal-03138929v1",
-    "city_s": "Lille",
-    "page_s": "p. 215-226",
-    "producedDateY_i": 2003,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b6a",
-    "docid": "3533084",
-    "title_s": [
-      "« Politiques d’intégration et diversité des discours : une analyse comparée Catalogne/Pays Basque »"
-    ],
-    "authFullName_s": [
-      "Jimena Larroque"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "ca",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "POLEN"
-    ],
-    "labStructAddress_s": [
-      "Université d'Orléans, UFR Lettres Langues Sciences humaines, 10 rue de Tours, 45045 Orléans CEDEX"
-    ],
-    "uri_s": "https://hal.science/hal-03533084v1",
-    "city_s": "Poitiers",
-    "producedDateY_i": 2006,
-    "latitude": "46.583644875",
-    "longitude": "0.359570095"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b6b",
-    "docid": "980872",
-    "title_s": [
-      "Output Feedback Hybrid-Impulsive Second Order Sliding Mode Control: Lyapunov Approach"
-    ],
-    "authFullName_s": [
-      "Yuri Shtessel",
-      "Alain Glumineau",
-      "Franck Plestan",
-      "Martin Weiss"
-    ],
-    "structCountry_s": [
-      "us",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "nl",
-      "nl"
-    ],
-    "labStructAcronym_s": [
-      "IRCCyN",
-      "TNO"
-    ],
-    "labStructAddress_s": [
-      "1, rue de la Noë BP92101 44321 Nantes Cedex 03",
-      "P.O. Box 96864 2509 JG The Hague"
-    ],
-    "uri_s": "https://hal.science/hal-00980872v1",
-    "city_s": "Nantes",
-    "page_s": "1-6",
-    "producedDateY_i": 2014,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b74",
-    "docid": "256268",
-    "title_s": [
-      "la nouvelle procédure de changement de régime matrimonial"
-    ],
-    "authFullName_s": [
-      "Jean-Marie Delperier"
-    ],
-    "labStructAcronym_s": [
-      "IODE"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Droit et de Science P 9 Rue Jean Mace 35042 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00256268v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2006,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b7b",
-    "docid": "2813147",
-    "title_s": [
-      "Eléments de compréhension de la génétique et génomique dans le contexte de la sélection animale"
-    ],
-    "authFullName_s": [
-      "Sandrine Lagarrigue"
-    ],
-    "labStructAcronym_s": [
-      "GARen"
-    ],
-    "labStructAddress_s": [
-      "INRA-AGROCAMPUS-RENNES 65 rue de Saint-Brieuc 35042 RENNES"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02813147v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2008,
-    "fileMain_s": "https://hal.inrae.fr/hal-02813147/document",
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b89",
-    "docid": "2813194",
-    "title_s": [
-      "Comment faire l'examen échographique de la face palmaire du boulet chez le cheval"
-    ],
-    "authFullName_s": [
-      "Marion Seignour",
-      "Sandrine Jacquet",
-      "Jean-Marie Denoix"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "BPLC"
-    ],
-    "labStructAddress_s": [
-      "ENVA7 avenue du Général de Gaulle94704 MAISONS-ALFORT CEDEX"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02813194v1",
-    "city_s": "Reims",
-    "page_s": "Inconnu",
-    "producedDateY_i": 2008,
-    "latitude": "49.251726201",
-    "longitude": "4.040155708"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b92",
-    "docid": "3138988",
-    "title_s": [
-      "Les servitudes collectives en lotissement"
-    ],
-    "authFullName_s": [
-      "Nicolas Leblond"
-    ],
-    "labStructAcronym_s": [
-      "IDP"
-    ],
-    "labStructAddress_s": [
-      "Site les Tertiales3 rue des Cent Têtes59313 Valenciennes Cedex 9"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03138988v1",
-    "city_s": "Tours",
-    "producedDateY_i": 2015,
-    "latitude": "47.398410522",
-    "longitude": "0.6961002820000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b95",
-    "docid": "2813161",
-    "title_s": [
-      "Proprotein Convertase Subtilisin/Kexin type 9 is repressed by PPARa and its overexpression during fasting results in massive hypertryglyceridemia"
-    ],
-    "authFullName_s": [
-      "P Costet",
-      "Thierry Pineau",
-      "S Kourinate",
-      "A-L Jarnoux",
-      "Michel Krempf",
-      "G Lambert"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "DEPT SA"
-    ],
-    "labStructAddress_s": [
-      "NOUZILLY"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02813161v1",
-    "city_s": "Biarritz",
-    "page_s": "Inconnu",
-    "producedDateY_i": 2006,
-    "latitude": "43.469221868",
-    "longitude": "-1.552105077"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b99",
-    "docid": "12282",
-    "title_s": [
-      "Interaction of Cu ions on heavy targets at 450 MeV"
-    ],
-    "authFullName_s": [
-      "L. Tassan-Got",
-      "N. Frascaria",
-      "J.P. Garron",
-      "J.C. Jacmart",
-      "N. Poffe",
-      "C. Stephan"
-    ],
-    "labStructAcronym_s": [
-      "IPNO"
-    ],
-    "labStructAddress_s": [
-      "IPN - 15, rue Georges Clemenceau - 91406 ORSAY CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00008674v1",
-    "city_s": "Caen",
-    "page_s": "174",
-    "publisher_s": [
-      "Societe Francaise De Physique"
-    ],
-    "producedDateY_i": 1976,
-    "latitude": "49.184977638",
-    "longitude": "-0.369888818"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643b9b",
-    "docid": "733125",
-    "title_s": [
-      "Supervisory predictive control of a hybrid solar panels, microturbine and battery power generation plant"
-    ],
-    "authFullName_s": [
-      "Lamine Chalal",
-      "Jean-Yves Dieulot",
-      "Geneviève Dauphin-Tanguy",
-      "Frédéric Colas"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LAGIS"
-    ],
-    "labStructAddress_s": [
-      "LAGIS Ecole Centrale de Lille Cité Scientifique 59655 Villeneuve d'Ascq"
-    ],
-    "uri_s": "https://hal.science/hal-00733125v1",
-    "city_s": "Toulouse",
-    "page_s": "CD ROM",
-    "producedDateY_i": 2012,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ba0",
-    "docid": "2020984",
-    "title_s": [
-      "À propos de l'orientation économique du Front national"
-    ],
-    "authFullName_s": [
-      "Fabien Tarrit"
-    ],
-    "labStructAcronym_s": [
-      "REGARDS"
-    ],
-    "labStructAddress_s": [
-      "UFR des Sciences Economiques, Sociales et de Gestion - 57, bis rue Pierre Taittinger51096 Reims Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02020984v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2016,
-    "fileMain_s": "https://hal.science/hal-02020984/document",
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ba5",
-    "docid": "12298",
-    "title_s": [
-      "Excitation of high energy resonances by 200 MeV proton inelastic scattering"
-    ],
-    "authFullName_s": [
-      "C. Djalali",
-      "J.C. Jourdain",
-      "Nicolas C.M. Marty",
-      "M. Morlet",
-      "A. Willis"
-    ],
-    "labStructAcronym_s": [
-      "IPNO"
-    ],
-    "labStructAddress_s": [
-      "IPN - 15, rue Georges Clemenceau - 91406 ORSAY CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00008690v1",
-    "city_s": "Versailles",
-    "page_s": "162",
-    "publisher_s": [
-      "Cea"
-    ],
-    "producedDateY_i": 1981,
-    "latitude": "48.802292474",
-    "longitude": "2.117410101"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ba6",
-    "docid": "572342",
-    "title_s": [
-      "Damage estimate in high cycle fatigue by energy balance"
-    ],
-    "authFullName_s": [
-      "B. Berthel",
-      "Andre Chrysochoos",
-      "Bertrand Wattrisse",
-      "B. Weber",
-      "A. Galtier"
-    ],
-    "labStructAcronym_s": [
-      "LMGC",
-      "LMGC"
-    ],
-    "labStructAddress_s": [
-      "CC 048 Place Eugène Bataillon, 34095 MONTPELLIER CEDEX 5",
-      "CC 048 Place Eugène Bataillon, 34095 MONTPELLIER CEDEX 5"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00572342v1",
-    "city_s": "Senlis",
-    "producedDateY_i": 2007,
-    "latitude": "49.211886416",
-    "longitude": "2.585700146"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643ba8",
-    "docid": "3219221",
-    "title_s": [
-      "HAL'INRAE l'essentiel à savoir..."
-    ],
-    "authFullName_s": [
-      "Véronique Decognet",
-      "Nelly Lucas"
-    ],
-    "labStructAcronym_s": [
-      "PV",
-      "SDAR Paca"
-    ],
-    "labStructAddress_s": [
-      "Domaine Saint Maurice Unité de Recherche de Pathologie Végétale 67, allée des chênes CS 60094 F84143 Montfavet Cedex",
-      "INRAE Domaine Saint-Paul - Site Agroparc 228 route de l'Aérodrome CS40509 84914 AVIGNON CEDEX 9"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-03219221v1",
-    "city_s": "Avignon",
-    "producedDateY_i": 2020,
-    "latitude": "43.935441391",
-    "longitude": "4.841098248"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643baf",
-    "docid": "255769",
-    "title_s": [
-      "Convergence Budgétaire, taux d'intérêt et taux de change dans une union monétaire hétérogène"
-    ],
-    "authFullName_s": [
-      "Patrick Villieu"
-    ],
-    "labStructAcronym_s": [
-      "LEO"
-    ],
-    "labStructAddress_s": [
-      "Université d'Orléans - UFR Droit Économie Gestion - Rue de Blois - BP 26739 - 45067 ORLÉANS Cedex 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00255769v1",
-    "city_s": "Pau",
-    "producedDateY_i": 2001,
-    "latitude": "43.320042775",
-    "longitude": "-0.350142637"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bb0",
-    "docid": "1131487",
-    "title_s": [
-      "A combined Experimental and Theoretical Kinetic study of reactions between a series of alkylamines with CN radicals at 23 to 300 K"
-    ],
-    "authFullName_s": [
-      "Chantal Sleiman",
-      "Gisèle El Dib",
-      "M Rosi",
-      "Dimitris Skouteris",
-      "Nadia Balucani",
-      "André Canosa"
-    ],
-    "labStructAcronym_s": [
-      "IPR",
-      "DMI"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment 11A , B, C, E – 10B263 av. Général Leclerc35042 Rennes cedex FRANCE",
-      "via Vanvitelli, 1 06123 Perugia"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "it",
-      "it",
-      "it",
-      "it"
-    ],
-    "uri_s": "https://hal.science/hal-01131487v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2014,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bb1",
-    "docid": "173818",
-    "title_s": [
-      "Détection sélective de l'hybridation moléculaire des séquences d'ADN grâce à des transistors à grille suspendue"
-    ],
-    "authFullName_s": [
-      "Maxime Harnois",
-      "Anne-Claire Salaün"
-    ],
-    "labStructAcronym_s": [
-      "IETR"
-    ],
-    "labStructAddress_s": [
-      "Campus de Beaulieu Bâtiment 11D263 Av.Général Leclerc-CS 74205 35042 Rennes Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00173818v1",
-    "city_s": "Lille",
-    "page_s": "p 86",
-    "producedDateY_i": 2007,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bb4",
-    "docid": "732781",
-    "title_s": [
-      "Ballistic emission electron microscopy: towards the nanometer scale"
-    ],
-    "authFullName_s": [
-      "Marie Hervé",
-      "Sylvain Tricot",
-      "Sophie Guézo",
-      "Pascal Turban",
-      "Philippe Schieffer",
-      "Bruno Lépine",
-      "Gabriel Delhaye"
-    ],
-    "labStructAcronym_s": [
-      "IPR"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment 11A , B, C, E – 10B263 av. Général Leclerc35042 Rennes cedex FRANCE"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00732781v1",
-    "city_s": "Poitiers",
-    "producedDateY_i": 2011,
-    "latitude": "46.583644875",
-    "longitude": "0.359570095"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bbb",
-    "docid": "2812620",
-    "title_s": [
-      "Sélection de tagSNP: une approche PLNE"
-    ],
-    "authFullName_s": [
-      "David Allouche",
-      "Simon de Givry",
-      "Thomas Schiex"
-    ],
-    "labStructAcronym_s": [
-      "UBIA"
-    ],
-    "labStructAddress_s": [
-      "Centre Inra de Toulouse Midi-Pyrénées Chemin de Borde-Rouge-Auzeville BP 52627 F-31326 Castanet-Tolosan cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02812620v1",
-    "city_s": "Toulouse",
-    "page_s": "2",
-    "producedDateY_i": 2010,
-    "fileMain_s": "https://hal.inrae.fr/hal-02812620/document",
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bc5",
-    "docid": "1217425",
-    "title_s": [
-      "La dimension communautaire des professions"
-    ],
-    "authFullName_s": [
-      "Marion del Sol"
-    ],
-    "labStructAcronym_s": [
-      "IODE"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Droit et de Science Politique -  9 Rue Jean Mace 35042 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-01217425v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2015,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bc6",
-    "docid": "3287161",
-    "title_s": [
-      "Numerical analysis and simulation of the interaction between a Von Kármán vortex street and elastic flaps"
-    ],
-    "authFullName_s": [
-      "Samer Ali",
-      "Sébastien Menenteau",
-      "Charbel Habchi",
-      "Thierry Lemenand",
-      "Jean-Luc Harion",
-      "Ahmed Elmarakbi"
-    ],
-    "labStructAcronym_s": [
-      "LARIS"
-    ],
-    "labStructAddress_s": [
-      "Université d'Angers, LARIS | Polytech Angers, 62 Avenue Notre Dame du Lac - 49000 Angers"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-angers.hal.science/hal-03287161v1",
-    "city_s": "Bordeaux",
-    "page_s": "6",
-    "publisher_s": [
-      "AFM (Association Française de Mécanique)"
-    ],
-    "producedDateY_i": 2013,
-    "fileMain_s": "https://univ-angers.hal.science/hal-03287161/document",
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bc8",
-    "docid": "489332",
-    "title_s": [
-      "TINA, Services Platform Management Facilities"
-    ],
-    "authFullName_s": [
-      "Béatrice Finance",
-      "Thierry Delot",
-      "Yann Lepetit",
-      "Abdelrani Ridaoui"
-    ],
-    "labStructAcronym_s": [
-      "PRISM",
-      "CNET"
-    ],
-    "labStructAddress_s": [
-      "UFR des sciences PRISM  Bâtiment Descartes 45 avenue des Etats-Unis78035 VERSAILLES",
-      "Centre national d'études des télécommunications route de Trégastel 22301 Lannion CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00489332v1",
-    "city_s": "Montreal",
-    "page_s": "192-205",
-    "producedDateY_i": 1999,
-    "latitude": "44.518242755",
-    "longitude": "4.294294724"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bcb",
-    "docid": "565420",
-    "title_s": [
-      "Directed diffusion in optical lattices"
-    ],
-    "authFullName_s": [
-      "Laurent Sanchez-Palencia",
-      "Michele Schiavoni",
-      "Ferrucio Renzoni",
-      "Gilbert Grynberg"
-    ],
-    "labStructAcronym_s": [
-      "LKB (Lhomond)"
-    ],
-    "labStructAddress_s": [
-      "24 rue Lhomond, F-75231 Paris CEDEX 05"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal-iogs.archives-ouvertes.fr/hal-00565420v1",
-    "city_s": "Les Houches",
-    "producedDateY_i": 2003,
-    "latitude": "45.897024487",
-    "longitude": "6.800860672"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bd4",
-    "docid": "4165670",
-    "title_s": [
-      "Rubber part characterisation for rotordynamics analysis."
-    ],
-    "authFullName_s": [
-      "Florian Tezenas Du Montcel",
-      "Sébastien Baguet",
-      "Marie-Ange Andrianoely",
-      "Régis Dufour",
-      "Stéphane Grange",
-      "L. Briancon",
-      "Piotr Kanty"
-    ],
-    "labStructAcronym_s": [
-      "LaMCoS",
-      "GEOMAS"
-    ],
-    "labStructAddress_s": [
-      "Bâtiment Sophie Germain27b, avenue Jean CapelleF69621 VILLEURBANNE CEDEX",
-      "J.C.A Coulomb, 34 avenue des Arts, 69621 Villeurbanne Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04165670v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2023,
-    "fileMain_s": "https://hal.science/hal-04165670/document",
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bd9",
-    "docid": "2009244",
-    "title_s": [
-      "Regards croisés sur le statut du mineur"
-    ],
-    "authFullName_s": [
-      "Marie-Christine Sordino",
-      "Gaelle Serva"
-    ],
-    "labStructAcronym_s": [
-      "DD"
-    ],
-    "labStructAddress_s": [
-      "FACULTE DE DROIT - BAT 1 39 Rue de l'université 34060 MONTPELLIER CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-02009244v1",
-    "city_s": "Montpellier",
-    "publisher_s": [
-      "Presses de la Faculté de droit et science politique de Montpellier"
-    ],
-    "producedDateY_i": 2018,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643be2",
-    "docid": "1926921",
-    "title_s": [
-      "Les premiers grands projets d'Europe politique (XIII-XVIe siècle)"
-    ],
-    "authFullName_s": [
-      "Christophe Aubert"
-    ],
-    "labStructAcronym_s": [
-      "IODE"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Droit et de Science Politique -  9 Rue Jean Mace 35042 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-01926921v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2004,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643be6",
-    "docid": "647267",
-    "title_s": [
-      "A propos de Noël et De La Place (1801), des Leçons d'un autre âge ou comment articuler l'exemple et le modèle, la langue, la littérature et la morale entre Révolution, et premier Empire"
-    ],
-    "authFullName_s": [
-      "Jacques-Philippe Saint-Gérand"
-    ],
-    "labStructAcronym_s": [
-      "CeReS"
-    ],
-    "labStructAddress_s": [
-      "Faculté des Lettres et Sciences humaines 39 E, Rue Camille Guérin 87036 LIMOGES Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://unilim.hal.science/hal-00647267v1",
-    "city_s": "Bordeaux",
-    "page_s": "101",
-    "publisher_s": [
-      "Presses Universitaires de Rennes"
-    ],
-    "producedDateY_i": 2008,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bef",
-    "docid": "1125562",
-    "title_s": [
-      "Linear Reformulations of Integer Quadratic Programs"
-    ],
-    "authFullName_s": [
-      "Alain Billionnet",
-      "Sourour Elloumi",
-      "Amélie Lambert"
-    ],
-    "labStructAcronym_s": [
-      "CEDRIC",
-      "CEDRIC"
-    ],
-    "labStructAddress_s": [
-      "292 rue Saint-Martin 75141 PARIS Cedex 03Case courrier 2D4P30",
-      "292 rue Saint-Martin 75141 PARIS Cedex 03Case courrier 2D4P30"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01125562v1",
-    "city_s": "Metz",
-    "page_s": "43-51",
-    "producedDateY_i": 2008,
-    "latitude": "49.10819284",
-    "longitude": "6.195988106"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bf5",
-    "docid": "1926937",
-    "title_s": [
-      "La Charbonnerie, société secrète à Angers"
-    ],
-    "authFullName_s": [
-      "Christophe Aubert"
-    ],
-    "labStructAcronym_s": [
-      "IODE"
-    ],
-    "labStructAddress_s": [
-      "Faculté de Droit et de Science Politique -  9 Rue Jean Mace 35042 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-01926937v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2008,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bf6",
-    "docid": "3768436",
-    "title_s": [
-      "Reprises et remplois dans la sculpture de l'Afrique romaine"
-    ],
-    "authFullName_s": [
-      "François Baratte",
-      "Nathalie De Chaisemartin"
-    ],
-    "labStructAcronym_s": [
-      "OM"
-    ],
-    "labStructAddress_s": [
-      "27 rue Paul Bert 94204 IVRY SUR SEINE CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://cnrs.hal.science/hal-03768436v1",
-    "city_s": "Arles",
-    "producedDateY_i": 2016,
-    "latitude": "43.546935152",
-    "longitude": "4.661799679"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643bfc",
-    "docid": "1767554",
-    "title_s": [
-      "Explorer les potentialités d’un Environnement Virtuel Educatif (Silva Numerica) pour favoriser l’apprentissage de situations complexes et dynamiques en lien avec le vivant : le cas d’apprenants forestiers."
-    ],
-    "authFullName_s": [
-      "Thibault Chiron"
-    ],
-    "labStructAcronym_s": [
-      "DPF"
-    ],
-    "labStructAddress_s": [
-      "AgroSup Dijon - Eduter Recherche - 26 boulevard Docteur Petitjean - BP 87999 - 21079 Dijon cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01767554v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2018,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c02",
-    "docid": "2805824",
-    "title_s": [
-      "Modelisation of genomic selection in French dairy goats",
-      "Modélisation de la sélection génomique chez les caprins laitiers"
-    ],
-    "authFullName_s": [
-      "Céline Carillier",
-      "Helene H. Larroque",
-      "Christèle Robert-Granié"
-    ],
-    "labStructAcronym_s": [
-      "SAGA"
-    ],
-    "labStructAddress_s": [
-      "24 Chemin de Borde Rouge - Auzeville CS 52627 - 31326 Castanet Tolosan Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02805824v1",
-    "city_s": "Amboise",
-    "producedDateY_i": 2013,
-    "fileMain_s": "https://hal.inrae.fr/hal-02805824/document",
-    "latitude": "47.391659896",
-    "longitude": "1.000240215"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c03",
-    "docid": "1528842",
-    "title_s": [
-      "De la puissance cachée de certains programmes"
-    ],
-    "authFullName_s": [
-      "Gilles Verley"
-    ],
-    "labStructAcronym_s": [
-      "LIFAT"
-    ],
-    "labStructAddress_s": [
-      "64, Avenue Jean Portalis, 37200 Tours"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01528842v1",
-    "city_s": "ANGERS",
-    "producedDateY_i": 2010,
-    "fileMain_s": "https://hal.science/hal-01528842/document",
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c05",
-    "docid": "4328455",
-    "title_s": [
-      "Application du chiffrement fonctionnel sur données confidentielles pour la conception de modèles d'apprentissage automatique"
-    ],
-    "authFullName_s": [
-      "Tom Laborde",
-      "Alexandre Gensse",
-      "Philippe Chartier",
-      "Mohammed Lemou",
-      "Florian Méhats",
-      "Fabien Chaillan",
-      "Clément Gicquel"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "IM2NP"
-    ],
-    "labStructAddress_s": [
-      "Faculté des SciencesAvenue Escadrille Normandie NiemenCase 14213397 Marseille Cedex 20"
-    ],
-    "uri_s": "https://hal.science/hal-04328455v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2023,
-    "fileMain_s": "https://hal.science/hal-04328455/document",
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c0f",
-    "docid": "969814",
-    "title_s": [
-      "An integrated approach to predict poroelastic properties of argillaceous rocks"
-    ],
-    "authFullName_s": [
-      "P. Cosenza",
-      "Mehdi Ghoreychi",
-      "G. de Marsily",
-      "Guy Vasseur",
-      "S. Violette"
-    ],
-    "structCountry_s": [
-      "pt",
-      "pt",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "SISYPHE"
-    ],
-    "labStructAddress_s": [
-      "4 Pl. Jussieu 75252 Paris cedex 05"
-    ],
-    "uri_s": "https://ineris.hal.science/ineris-00969814v1",
-    "city_s": "Grenoble",
-    "producedDateY_i": 2002,
-    "latitude": "45.182206145",
-    "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c16",
-    "docid": "490361",
-    "title_s": [
-      "Principe de causalité et économie de la responsabilité civile"
-    ],
-    "authFullName_s": [
-      "François Facchini"
-    ],
-    "labStructAcronym_s": [
-      "CES"
-    ],
-    "labStructAddress_s": [
-      "Maison des Sciences Économiques - 106-112 Boulevard de l'Hôpital - 75647 Paris Cedex 13"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00490361v1",
-    "city_s": "Nancy",
-    "page_s": "151-167",
-    "publisher_s": [
-      "Cujas"
-    ],
-    "producedDateY_i": 2000,
-    "fileMain_s": "https://hal.science/hal-00490361/document",
-    "latitude": "48.690068976",
-    "longitude": "6.175258299"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c19",
-    "docid": "4408806",
-    "title_s": [
-      "Host-country Female Executives and External Legitimation Strategies of Foreign Subsidiaries: A Multi-theoretical Framework"
-    ],
-    "authFullName_s": [
-      "Karine Picot-Coupey",
-      "Nathalie Prime",
-      "Zina de Mercey"
-    ],
-    "labStructAcronym_s": [
-      "CREM",
-      "ESCP-EAP"
-    ],
-    "labStructAddress_s": [
-      "7 place Hoche, BP 8651435065 RENNES CEDEX",
-      "79, avenue de la République, 75011, Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04408806v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2023,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c20",
-    "docid": "1767441",
-    "title_s": [
-      "Les relations images / sons dans les systèmes interactifs multimédia : la question des interfaces « a-musicologiques »"
-    ],
-    "authFullName_s": [
-      "Hervé Zénouda"
-    ],
-    "labStructAcronym_s": [
-      "I3M"
-    ],
-    "labStructAddress_s": [
-      "Université de Nice Sophia-Antipolis 06103 Nice Université de Toulon 83957 La Garde"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://archivesic.ccsd.cnrs.fr/sic_01767441v1",
-    "city_s": "Lille",
-    "producedDateY_i": 2011,
-    "latitude": "50.631855028",
-    "longitude": "3.046986424"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c21",
-    "docid": "1528850",
-    "title_s": [
-      "Une approche de caractérisation des contextes appelants et appelés des liens hypertextes"
-    ],
-    "authFullName_s": [
-      "Moustafa Al-Hajj",
-      "Gilles Verley",
-      "Hubert Cardot"
-    ],
-    "labStructAcronym_s": [
-      "LIFAT"
-    ],
-    "labStructAddress_s": [
-      "64, Avenue Jean Portalis, 37200 Tours"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-01045073v1",
-    "city_s": "Metz",
-    "page_s": "32-36",
-    "producedDateY_i": 2006,
-    "fileMain_s": "https://hal.science/hal-01045073/document",
-    "latitude": "49.10819284",
-    "longitude": "6.195988106"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c22",
-    "docid": "6202",
-    "title_s": [
-      "Photocathodes a pointes de silicium dans un canon continu et canon hyperfrequence"
-    ],
-    "authFullName_s": [
-      "A. Ziad"
-    ],
-    "labStructAcronym_s": [
-      "LPC"
-    ],
-    "labStructAddress_s": [
-      "Campus des Cézeaux, 24 avenue des Landais, BP 80026, 63171 Aubière Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00002601v1",
-    "city_s": "Grasse",
-    "page_s": "159-160",
-    "producedDateY_i": 1998,
-    "latitude": "43.655947795",
-    "longitude": "6.931948216"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c24",
-    "docid": "2966219",
-    "title_s": [
-      "Menez-Dregan 1 : quels contextes pour les occupants paléolithiques ?"
-    ],
-    "authFullName_s": [
-      "C. Gaillard",
-      "A.-L. Ravon",
-      "J.-L. Monnier"
-    ],
-    "labStructAcronym_s": [
-      "HNHP"
-    ],
-    "labStructAddress_s": [
-      "Institut de Paléontologie Humaine - 1, rue René Panhard - 75013 Paris"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02966219v1",
-    "city_s": "Plouhinec",
-    "producedDateY_i": 2016,
-    "latitude": "47.692459316",
-    "longitude": "-3.23326746"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c31",
-    "docid": "2573121",
-    "title_s": [
-      "Study of dynamic behavior inside the ultrasonic motor using RBDO analysis"
-    ],
-    "authFullName_s": [
-      "Elhami Abdelkhalek",
-      "Bouchaib Radi",
-      "Abel Cherouat"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "ma",
-      "ma",
-      "ma",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "ICD"
-    ],
-    "labStructAddress_s": [
-      "12, rue Marie Curie BP 2060 - 10010 Troyes Cedex"
-    ],
-    "uri_s": "https://utt.hal.science/hal-02573121v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2011,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c37",
-    "docid": "91796",
-    "title_s": [
-      "Habiter la steppe syrienne aujourd'hui"
-    ],
-    "authFullName_s": [
-      "Olivier Aurenche"
-    ],
-    "labStructAcronym_s": [
-      "Archéorient"
-    ],
-    "labStructAddress_s": [
-      "Maison de l'Orient et de la Méditerranée Jean-Pouilloux 7 rue Raulin 69365 LYON Cedex 07"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00091796v1",
-    "city_s": "Antibes",
-    "page_s": "35-41",
-    "publisher_s": [
-      "APDCA"
-    ],
-    "producedDateY_i": 1999,
-    "latitude": "43.587761948",
-    "longitude": "7.105220285"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c3b",
-    "docid": "2573057",
-    "title_s": [
-      "Numerical aspects of finite elastoplasticity with damage for metal forming"
-    ],
-    "authFullName_s": [
-      "Khemais Saanouni",
-      "Abel Cherouat",
-      "Youssef Hammi"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "ICD"
-    ],
-    "labStructAddress_s": [
-      "12, rue Marie Curie BP 2060 - 10010 Troyes Cedex"
-    ],
-    "uri_s": "https://utt.hal.science/hal-02573057v1",
-    "city_s": "Troyes",
-    "producedDateY_i": 2001,
-    "latitude": "48.296733685",
-    "longitude": "4.078437147"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c40",
-    "docid": "4250234",
-    "title_s": [
-      "Road BRDF Construction From Measured R-Tables"
-    ],
-    "authFullName_s": [
-      "Vincent Boucher",
-      "Steve Lileke",
-      "Laure Lebouc",
-      "Florian Greffier"
-    ],
-    "labStructAcronym_s": [
-      "EL"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-04250234v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2022,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c43",
-    "docid": "2573100",
-    "title_s": [
-      "Simulation numérique de la mise en forme de pièces composites : drapage et emboutissage"
-    ],
-    "authFullName_s": [
-      "Jean-Louis Billoët",
-      "Abel Cherouat"
-    ],
-    "labStructAcronym_s": [
-      "LMSP",
-      "ICD"
-    ],
-    "labStructAddress_s": [
-      "151boulevard de l'Hôpital 75013 PARIS",
-      "12, rue Marie Curie BP 2060 - 10010 Troyes Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://utt.hal.science/hal-02573100v1",
-    "city_s": "Cachan",
-    "producedDateY_i": 1997,
-    "latitude": "48.791662561",
-    "longitude": "2.332077446"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c46",
-    "docid": "2735228",
-    "title_s": [
-      "Phosphate fertilising management: new indicators for bioavailability applied to carrot crops"
-    ],
-    "authFullName_s": [
-      "C. Raynal",
-      "Pascal Denoroy"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "TCEM",
-      "UMR ISPA"
-    ],
-    "labStructAddress_s": [
-      "Centre de Recherche INRA Bordeaux Aquitaine - 71, Avenue Edouard Bourlaux - BP 81, 33883 Villenave d’ornon Cedex France",
-      "F - 3388 3 Villenave d'Ornon Cedex"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02735228v1",
-    "city_s": "Angers",
-    "publisher_s": [
-      "ISHS International Society for Horticultural Science"
-    ],
-    "producedDateY_i": 2014,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c49",
-    "docid": "2572278",
-    "title_s": [
-      "Modélisation numérique de la compression de mousses métalliques d’aluminium avec cellules ouvertes"
-    ],
-    "authFullName_s": [
-      "Nikolaz Garsot",
-      "Yu Liu",
-      "Abel Cherouat",
-      "Xiao-Lu Gong"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "ICD"
-    ],
-    "labStructAddress_s": [
-      "12, rue Marie Curie BP 2060 - 10010 Troyes Cedex"
-    ],
-    "uri_s": "https://utt.hal.science/hal-02572278v1",
-    "city_s": "Dijon",
-    "producedDateY_i": 2006,
-    "latitude": "47.322850621",
-    "longitude": "5.037471304"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c4a",
-    "docid": "2092231",
-    "title_s": [
-      "Les jeux de l'illusion, cinéma et narration"
-    ],
-    "authFullName_s": [
-      "Frédéric Tabet"
-    ],
-    "labStructAcronym_s": [
-      "LARA-SEPPIA"
-    ],
-    "labStructAddress_s": [
-      "5 Allées Antonio Machado31058 Toulouse Cedex 9"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-02092231v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2018,
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c4b",
-    "docid": "2807668",
-    "title_s": [
-      "Long term muscle repair and clinical efficacy in Duchenne Muscular Dystrophy dogs after systemic delivery of allogenic Muscle Stem (MuStem) cells"
-    ],
-    "authFullName_s": [
-      "Karl Rouger"
-    ],
-    "labStructAcronym_s": [
-      "DPTM"
-    ],
-    "labStructAddress_s": [
-      "44307 Nantes"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-02807668v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2011,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c4c",
-    "docid": "808503",
-    "title_s": [
-      "Bs→mu mu"
-    ],
-    "authFullName_s": [
-      "M. Perrin-Terrin"
-    ],
-    "labStructAcronym_s": [
-      "CPPM"
-    ],
-    "labStructAddress_s": [
-      "163, avenue de Luminy - Case 902 - 13288 Marseille cedex 09"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://in2p3.hal.science/in2p3-00808503v1",
-    "city_s": "Annecy",
-    "producedDateY_i": 2013,
-    "latitude": "45.901643496",
-    "longitude": "6.118095198"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c4d",
-    "docid": "1769681",
-    "title_s": [
-      "How does expertise really work ? Linking quantitative and qualitative analysis"
-    ],
-    "authFullName_s": [
-      "Anta Niang",
-      "Chloe Leclerc",
-      "Benoît Testé"
-    ],
-    "labStructAcronym_s": [
-      "LP3C - EA1285",
-      "ICCC"
-    ],
-    "labStructAddress_s": [
-      "UFR Sciences Humaines. Place du Recteur Henri Le Moal. 35043 RENNES CEDEX",
-      "Montréal"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "ca",
-      "ca"
-    ],
-    "uri_s": "https://univ-rennes2.hal.science/hal-01769681v1",
-    "city_s": "Toulouse",
-    "producedDateY_i": 2016,
-    "fileMain_s": "https://univ-rennes2.hal.science/hal-01769681/document",
-    "latitude": "43.596037953",
-    "longitude": "1.432094901"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c4e",
-    "docid": "332828",
-    "title_s": [
-      "Dynamique du nuage de poudres dans un plasma: Void et Instabilités"
-    ],
-    "authFullName_s": [
-      "Marjorie Cavarroc",
-      "Maxime Mikikian",
-      "Lénaïc Couëdel",
-      "Yves Tessier",
-      "Laïfa Boufendi"
-    ],
-    "labStructAcronym_s": [
-      "GREMI"
-    ],
-    "labStructAddress_s": [
-      "14 Rue d'Issoudun - BP 6744 45067 ORLEANS CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00332828v1",
-    "city_s": "Grenoble",
-    "producedDateY_i": 2007,
-    "latitude": "45.182206145",
-    "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c55",
-    "docid": "2650648",
-    "title_s": [
-      "La valeur de la culture au risque de l'entrepreneuriat"
-    ],
-    "authFullName_s": [
-      "Dominique Sagot-Duvauroux"
-    ],
-    "labStructAcronym_s": [
-      "GRANEM"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-angers.hal.science/hal-02650648v1",
-    "city_s": "Nantes",
-    "producedDateY_i": 2018,
-    "latitude": "47.232046411",
-    "longitude": "-1.548204252"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c5d",
-    "docid": "4330989",
-    "title_s": [
-      "Quantum simulation of Ising and XY spin models with Rydberg atom arrays"
-    ],
-    "authFullName_s": [
-      "Thierry Lahaye"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LCF"
-    ],
-    "labStructAddress_s": [
-      "2 avenue Augustin Fresnel, 91127 Palaiseau Cedex"
-    ],
-    "uri_s": "https://hal.science/hal-04330989v1",
-    "city_s": "Villejuif",
-    "producedDateY_i": 2023,
-    "latitude": "48.792392355",
-    "longitude": "2.35987795"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c63",
-    "docid": "3608366",
-    "title_s": [
-      "Vers la Génération Interactive d'Applications Graphiques"
-    ],
-    "authFullName_s": [
-      "Guillaume Patry"
-    ],
-    "labStructAcronym_s": [
-      "LISI [Poitiers]"
-    ],
-    "labStructAddress_s": [
-      "Téléport 2 1 avenue Clément Ader BP 40109 86961 Futuroscope Chasseneuil cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03608366v1",
-    "city_s": "Grenoble",
-    "page_s": "149-150",
-    "publisher_s": [
-      "Cépaduès"
-    ],
-    "producedDateY_i": 1996,
-    "latitude": "45.182206145",
-    "longitude": "5.7212206420000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c64",
-    "docid": "493028",
-    "title_s": [
-      "La loi Naquet et le divorce"
-    ],
-    "authFullName_s": [
-      "Jean-François Tanguy"
-    ],
-    "labStructAcronym_s": [
-      "CERHIO"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://shs.hal.science/halshs-00493028v1",
-    "city_s": "Valenciennes",
-    "page_s": "133-160",
-    "publisher_s": [
-      "Presses universitaires de Valenciennes"
-    ],
-    "producedDateY_i": 2005,
-    "latitude": "50.359106458",
-    "longitude": "3.516178981"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c66",
-    "docid": "1452584",
-    "title_s": [
-      "Matérialité\" textuelle et statut théologique du texte sacré : le cas du coran"
-    ],
-    "authFullName_s": [
-      "Mohamed Saki"
-    ],
-    "labStructAcronym_s": [
-      "HCTI"
-    ],
-    "labStructAddress_s": [
-      "20 rue Duquesne 29238 Brest Cedex 03"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.univ-brest.fr/hal-01452584v1",
-    "city_s": "Brest",
-    "producedDateY_i": 2016,
-    "latitude": "48.400345079",
-    "longitude": "-4.5024793590000005"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c6c",
-    "docid": "1530440",
-    "title_s": [
-      "Génération de tests d'intéropérabilité pour le protocole TCP"
-    ],
-    "authFullName_s": [
-      "Cédric Besse",
-      "Ana Cavalli",
-      "Fatiha Zaïdi"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "labStructAcronym_s": [
-      "LIP6"
-    ],
-    "labStructAddress_s": [
-      "4 Place JUSSIEU 75252 PARIS CEDEX 05"
-    ],
-    "uri_s": "https://hal.science/hal-01530440v1",
-    "city_s": "Metz",
-    "page_s": "447-461",
-    "publisher_s": [
-      "Edition Hermes Science"
-    ],
-    "producedDateY_i": 2003,
-    "latitude": "49.10819284",
-    "longitude": "6.195988106"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c6d",
-    "docid": "3526881",
-    "title_s": [
-      "Au dela de la trace, la restitution comme forme engagée"
-    ],
-    "authFullName_s": [
-      "Pierre Baumann",
-      "Chloé Bappel",
-      "Marlaine Bournel",
-      "E. Ponthoreau",
-      "T. Smith"
-    ],
-    "labStructAcronym_s": [
-      "CLARE"
-    ],
-    "labStructAddress_s": [
-      "Domaine universitaire - 10, Esplanade des Antilles 33607 Pessac cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-03526881v1",
-    "city_s": "Bordeaux",
-    "producedDateY_i": 2019,
-    "latitude": "44.857621613",
-    "longitude": "-0.5733793060000001"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c74",
-    "docid": "2888338",
-    "title_s": [
-      "Food consumption, nature connectedness and wellbeing: an exploratory study"
-    ],
-    "authFullName_s": [
-      "Barbara Bonnefoy"
-    ],
-    "labStructAcronym_s": [
-      "LAPPS"
-    ],
-    "labStructAddress_s": [
-      "Université Paris Nanterre, Département de psychologie, 200 avenue de la République, 92000 NANTERRE - Université Paris 8, UFR de Psychologie, 2 rue de la Liberté, 93526 Saint-Denis cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-paris8.hal.science/hal-02888338v1",
-    "city_s": "Angers",
-    "producedDateY_i": 2016,
-    "latitude": "47.476657084",
-    "longitude": "-0.556221025"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c78",
-    "docid": "167806",
-    "title_s": [
-      "Strategies for innovation, social innovation through development of new products in the automobile european industry"
-    ],
-    "authFullName_s": [
-      "Sandrine Aubert",
-      "Laure Morel"
-    ],
-    "labStructAcronym_s": [
-      "ERPI"
-    ],
-    "labStructAddress_s": [
-      "Université de Lorraine - ENSGSI, 8, rue Bastien Lepage, BP 90647, 54010, Nancy Cedex"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.science/hal-00167806v1",
-    "city_s": "VIENNE",
-    "page_s": "@Proceeding",
-    "producedDateY_i": 2005,
-    "latitude": "45.520830747",
-    "longitude": "4.880866824"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c79",
-    "docid": "3689414",
-    "title_s": [
-      "Gouvernance, innovation et performance durable au sein des entreprises impliquées dans la qualité"
-    ],
-    "authFullName_s": [
-      "Louis-Antoine Saïsset",
-      "Iciar Pavez"
-    ],
-    "labStructAcronym_s": [
-      "UMR MoISA"
-    ],
-    "labStructAddress_s": [
-      "INRAE - Campus Supagro Montpellier2 place Viala34060 MONTPELLIER CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.inrae.fr/hal-03689414v1",
-    "city_s": "Seysses",
-    "producedDateY_i": 2022,
-    "latitude": "43.49861935",
-    "longitude": "1.287423808"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c7f",
-    "docid": "2488233",
-    "title_s": [
-      "Autour de la dé-définition de l’art…"
-    ],
-    "authFullName_s": [
-      "Bénédicte Boisson"
-    ],
-    "labStructAcronym_s": [
-      "APP"
-    ],
-    "labStructAddress_s": [
-      "Université Rennes 2. UFR Arts, Lettres et Communication. Place du Recteur Henri Le Moal. 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-rennes2.hal.science/hal-02488233v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2012,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c81",
-    "docid": "2488238",
-    "title_s": [
-      "Contiguïtés / continuités de l’inanimé et de l’animé (marionnettes, masques, corps) dans Shun-kin, texte de Jun’ichiro Tanizaki mis en scène par Simon Mc Burney"
-    ],
-    "authFullName_s": [
-      "Bénédicte Boisson"
-    ],
-    "labStructAcronym_s": [
-      "APP"
-    ],
-    "labStructAddress_s": [
-      "Université Rennes 2. UFR Arts, Lettres et Communication. Place du Recteur Henri Le Moal. 35043 RENNES CEDEX"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://univ-rennes2.hal.science/hal-02488238v1",
-    "city_s": "Rennes",
-    "producedDateY_i": 2012,
-    "latitude": "48.111680407",
-    "longitude": "-1.681868718"
-  },
-  {
-    "_id": "67e2b5e33f596e7337643c8d",
-    "docid": "2329767",
-    "title_s": [
-      "La vente des médicaments sur internet"
-    ],
-    "authFullName_s": [
-      "Virginie Rage Andrieu"
-    ],
-    "labStructAcronym_s": [
-      "DD"
-    ],
-    "labStructAddress_s": [
-      "FACULTE DE DROIT - BAT 1 39 Rue de l'université 34060 MONTPELLIER CEDEX 2"
-    ],
-    "structCountry_s": [
-      "fr",
-      "fr",
-      "fr"
-    ],
-    "uri_s": "https://hal.umontpellier.fr/hal-02329767v1",
-    "city_s": "Montpellier",
-    "producedDateY_i": 2015,
-    "latitude": "43.61335437",
-    "longitude": "3.869264054"
   }
 ]
