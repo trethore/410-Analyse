@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
           if (article.uri_s) li.innerHTML += `<strong>URI:</strong> <a href="${article.uri_s}" target="_blank">${article.uri_s}</a> <br>`;
           if (article.fileMain_s) li.innerHTML += `<strong>Main File:</strong> ${article.fileMain_s} <br>`;
           if (article.labStructAcronym_s) li.innerHTML += `<strong>Lab Acronym:</strong> ${article.labStructAcronym_s} <br>`;
-          if (article.page_s) li.innerHTML += `<strong>Pages:</strong> ${article.page_s} <br>`;
+          if (article.page_s) li.innerHTML += `<strong>Page:</strong> ${article.page_s} <br>`;
           if (article.structCountry_s) li.innerHTML += `<strong>Country:</strong> ${article.structCountry_s} <br>`;
           if (article.city_s) li.innerHTML += `<strong>City:</strong> ${article.city_s} <br>`;
           if (article.labStructAddress_s) li.innerHTML += `<strong>Lab Address:</strong> ${article.labStructAddress_s} <br>`;

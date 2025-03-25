@@ -4,7 +4,7 @@
   "description": "Node.js with MongoDB application",
   "main": "index.js",
   "scripts": {
-    "prestart": "node src/data/mongo/cities.js && node src/data/mongo/data.js && node src/data/mongo/arcticleswithcoords.js",
+    "prestart": "node src/data/mongo/cities.js",
     "start": "node src/main.js"
   },
   "dependencies": {

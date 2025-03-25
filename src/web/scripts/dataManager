@@ -1,0 +1,30 @@
+function triggerImport() {
+    const amount = parseInt(document.getElementById('dataAmount').value, 10);
+    if (isNaN(amount) || amount < 1) {
+        alert("Veuillez entrer un nombre valide (>= 1)");
+        return;
+    }
+
+    fetch('/import', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ amount })
+    })
+        .then(res => res.text())
+        .then(alert)
+        .catch(err => console.error(err));
+}
+
+function save() {
+    fetch('/save', { method: 'POST' })
+        .then(res => res.text())
+        .then(alert)
+        .catch(console.error);
+}
+
+function load() {
+    fetch('/loadFromCache', { method: 'POST' })
+        .then(res => res.text())
+        .then(alert)
+        .catch(console.error);
+}

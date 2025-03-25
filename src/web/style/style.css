@@ -1,0 +1,101 @@
+
+/* General Reset & Font */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+    color: #212121;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+/* Form Elements */
+input[type="number"] {
+    padding: 12px 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #212121;
+    width: 250px;
+    margin-right: 10px;
+    font-size: 1rem;
+    transition: border-color 0.3s;
+}
+
+input[type="number"]:focus {
+    border-color: #0057D9;
+    outline: none;
+}
+
+/* Buttons */
+button {
+    background-color: #0057D9; /* Professional blue */
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #003EAA;
+}
+
+/* Map Section */
+.map-container {
+    margin-top: 40px;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+#map {
+    height: 500px;
+    border-radius: 12px;
+}
+
+/* Articles Section */
+#articles {
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+#articles h3 {
+    color: #0057D9;
+    margin-bottom: 10px;
+}
+
+/* Section Titles */
+h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    input[type="number"], button {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}

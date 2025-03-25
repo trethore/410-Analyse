@@ -1,14 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>410-Analyse</title>
+
+    <link rel="stylesheet" href="/leaflet/leaflet.css" />
+    <link rel="stylesheet" href="/leaflet-markercluster/MarkerCluster.css" />
+    <link rel="stylesheet" href="/leaflet-markercluster/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="../style/style.css" />
+
+    <script src="/leaflet/leaflet.js"></script>
+    <script src="/leaflet-markercluster/leaflet.markercluster.js"></script>
+
     <script src="../scripts/home.js"></script>
+    <script src="../scripts/map.js"></script>
+    <script src="../scripts/dataManager"></script>
+    
 </head>
+
 <body>
     <h1>Analyse</h1>
-    <p>C'est un test salut !</p>
-    <div id="articles"></div>
+    <p>Veuillez importer des datas</p>
+    <input type="number" id="dataAmount" min="1" step="1" placeholder="Nombre en centaines">
+    <button onclick="triggerImport()">Importer</button>
+    <button onclick="save()">💾 Sauvegarder le cache</button>
+    <button onclick="load()">📥 Charger depuis le cache</button>
+
+    <div class="map-container">
+        <h2>Carte des articles</h2>
+        <div id="map"></div>
+    </div>
+
+
+    <div>
+        <h2>Liste des Articles</h2>
+        <div id="articles"></div>
+    </div>
+
 </body>
+
 </html>

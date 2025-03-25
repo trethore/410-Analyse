@@ -21,7 +21,7 @@ async function enrichArticlesWithCoords() {
       }
       return null;
     }).filter(article => article !== null);
-
+    await db.collection('articlesWithCoords').deleteMany({});
     const result = await db.collection('articlesWithCoords').insertMany(enrichedArticles);
     console.log(`Enriched articles inserted: ${result.insertedCount}`);
   } catch (err) {
@@ -32,3 +32,4 @@ async function enrichArticlesWithCoords() {
 }
 
 enrichArticlesWithCoords();
+module.exports = { enrichArticlesWithCoords };
